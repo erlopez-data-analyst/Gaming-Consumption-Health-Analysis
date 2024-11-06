@@ -1,0 +1,981 @@
+UserID,Name,Age,Gender,Profession,Yearly Income,Property Owner,Physical Activity,Gaming Devices,Video Game Genre,Gaming Motivation,Hours Played Daily,Monthly Gaming Purchases,Hours Sleep Daily,Mental Wellness Score,Importance Score,Productivity Loss,Satisfaction,Self Control,Addiction Level
+10001,Jessica Brown,28,Female,Manager,"$144,351 ",No,Yes,PlayStation,MMORPG,Challenge,1,33,11,31,30,9,74,19,95
+10002,Michael Smith,33,Male,Lawyer,"$175,292 ",Yes,Yes,Nintendo,Strategy,Social Interaction,5,826,4,55,10,92,58,72,36
+10003,Emily Johnson,26,Female,Other,"$16,762 ",Yes,Yes,PlayStation,Racing,Competition,4,624,7,71,37,80,61,93,61
+10004,Matthew Williams,22,Other,Developer,"$189,424 ",No,No,Cell Phone,Horror,Competition,10,172,11,1,84,29,6,96,64
+10005,Olivia jones,24,Female,Developer,"$1,310 ",Yes,No,PC,Survival,Relaxation,5,986,11,54,34,63,81,12,63
+10007,Ava Davis,24,Female,Lawyer,"$77,275 ",No,No,Nintendo,Sports,Social Interaction,8,346,4,86,41,13,82,57,36
+10008,Christopher Garcia,30,Male,Lawyer,"$154,140 ",No,Yes,PlayStation,FPS,Relaxation,6,732,6,34,2,52,33,81,6
+10009,Isabella Martinez,26,Female,Student,"$124,016 ",No,No,Nintendo,Survival,Habit,3,876,7,50,38,59,49,63,11
+10011,Sophia Hernandez,31,Female,Doctor,"$109,035 ",Yes,Yes,Cell Phone,RPG,Competition,11,612,4,11,21,13,73,29,34
+10012,Benjamin Lee,20,Other,Other,"$195,264 ",Yes,Yes,Nintendo,FPS,Loneliness,11,528,8,39,33,80,73,95,73
+10013,Mia Gonzalez,32,Female,Writer,"$81,636 ",No,Yes,Nintendo,Survival,Relaxation,8,139,6,97,14,95,38,66,58
+10015,Charlotte  Wilson,31,Female,Student,"$17,774 ",No,Yes,Cell Phone,Strategy,Habit,2,38,11,17,56,97,9,84,71
+10016,Lucas Anderson,19,Male,Other,"$132,625 ",No,No,Tablet,Strategy,Challenge,10,283,4,53,70,76,61,27,38
+10017,Amelia Thomas,31,Female,Developer,"$170,467 ",No,Yes,Nintendo,Survival,Competition,9,345,8,87,27,52,50,79,71
+10019,Harper Martin,20,Female,Artist,"$126,644 ",No,No,PC,Fighting,Escapism,6,863,8,85,54,86,22,10,9
+10020,Mason Jackson,21,Male,Developer,"$184,963 ",No,Yes,Cell Phone,Strategy,Relaxation,8,430,6,54,64,65,11,73,42
+10021,Evelyn Thompson,31,Female,Other,"$40,431 ",No,Yes,Tablet,Sports,Habit,6,782,11,80,22,51,88,89,52
+10022,Logan White,29,Male,Student,"$61,399 ",No,Yes,Cell Phone,Horror,Habit,1,275,6,83,4,2,96,36,62
+10023,Jacky Smith,26,Female,Nurse,"$50,425 ",No,Yes,PlayStation,Survival,Entertainment,1,784,6,32,76,78,23,86,23
+10024,Ella  Harris,22,Female,Nurse,"$136,631 ",Yes,Yes,Cell Phone,Racing,Relaxation,3,824,9,34,85,44,85,68,22
+10025,Alexander Clark,34,Male,Nurse,"$83,529 ",Yes,Yes,PlayStation,Horror,Competition,6,595,6,75,50,28,96,45,20
+10026,Grace  Lewis ,25,Other,Artist,"$125,554 ",No,No,Cell Phone,MOBA,Entertainment,5,148,11,40,34,52,86,53,27
+10027,Ethan Robinson,26,Other,Doctor,"$146,328 ",No,Yes,Nintendo,Fighting,Challenge,9,139,8,2,6,73,88,13,65
+10028,Chloe Walker,21,Female,Manager,"$7,191 ",No,Yes,Xbox,MOBA,Loneliness,2,636,5,37,15,34,13,94,47
+10029,Jacob Hall,24,Other,Designer,"$68,992 ",Yes,Yes,Tablet,Horror,Competition,6,731,7,87,19,96,77,28,74
+10030,Lily  Alien,26,Other,Artist,"$115,067 ",Yes,No,PlayStation,Horror,Habit,1,517,9,99,11,21,21,53,14
+10031,Aiden Young,18,Male,Designer,"$19,973 ",Yes,No,PC,Racing,Entertainment,11,302,7,49,21,85,94,88,35
+10032,Scarlett King,22,Female,Manager,"$172,889 ",No,Yes,PlayStation,Racing,Habit,11,591,9,67,50,16,26,79,10
+10033,Jackson Wright,26,Male,Teacher,"$115,495 ",No,Yes,Nintendo,Strategy,Challenge,4,249,5,81,10,41,23,67,17
+10034,Aria Hill,33,Female,Doctor,"$76,966 ",Yes,Yes,Nintendo,Survival,Social Interaction,10,164,11,33,21,24,95,55,79
+10035,Samuel Scott,25,Male,Student,"$115,652 ",No,No,Tablet,FPS,Entertainment,4,531,5,66,4,85,15,45,16
+10036,Zoey Green,19,Female,Designer,"$62,680 ",Yes,No,Nintendo,Strategy,Competition,4,747,6,44,90,69,13,51,82
+10037,Carter Adams,21,Male,Doctor,"$164,214 ",Yes,Yes,PlayStation,Strategy,Habit,1,39,5,96,15,42,47,40,34
+10038,Penelope Baker,30,Female,Doctor,"$58,932 ",Yes,No,Cell Phone,RPG,Boredom,7,881,7,88,8,38,39,45,37
+10039,Anthony Gonzalez,26,Male,Writer,"$191,959 ",No,Yes,Tablet,RPG,Stress Relief,6,351,5,85,83,96,7,52,43
+10040,Riley Nelson,30,Female,Writer,"$62,250 ",Yes,No,PC,FPS,Loneliness,4,254,10,67,37,16,51,8,94
+10041,Jack Carter,31,Male,Student,"$154,363 ",No,Yes,Cell Phone,MMORPG,Escapism,1,721,9,85,67,98,55,22,21
+10042,Avery Mitchell,31,Female,Designer,"$153,250 ",Yes,No,PlayStation,Sports,Habit,8,68,9,8,20,62,18,61,62
+10043,Dylan Perez,32,Male,Writer,"$75,493 ",Yes,No,Nintendo,FPS,Relaxation,4,659,9,4,42,44,7,15,74
+10044,Sofia Robinson,28,Female,Lawyer,"$189,354 ",No,Yes,Tablet,MMORPG,Loneliness,9,461,10,24,84,7,34,32,6
+10045,Caleb Turner,30,Other,Artist,"$136,757 ",No,No,Xbox,MOBA,Challenge,2,250,5,13,84,24,43,19,85
+10046,Aubrey Phillips,23,Male,Other,"$34,001 ",Yes,No,PlayStation,Horror,Stress Relief,10,584,11,65,42,44,85,89,67
+10047,Leo Campbell,33,Male,Engineer,"$107,076 ",No,No,Nintendo,Horror,Boredom,10,276,6,27,17,69,30,53,60
+10048,Hannah Parker,31,Other,Designer,"$128,668 ",Yes,No,Cell Phone,FPS,Stress Relief,10,194,6,3,4,26,85,43,19
+10049,Leo Rivera,31,Male,Lawyer,"$133,917 ",No,No,Nintendo,FPS,Entertainment,10,50,8,84,80,3,4,81,9
+10050,Natalie Stewart,32,Female,Doctor,"$91,247 ",Yes,No,PC,Survival,Stress Relief,8,413,8,93,89,66,87,35,8
+10051,Gabriel Sanchez,29,Other,Student,"$102,298 ",No,No,Xbox,Survival,Escapism,7,363,11,76,53,56,54,36,99
+10052,Andrew Collins,25,Other,Manager,"$105,631 ",No,Yes,Xbox,Strategy,Social Interaction,4,540,10,85,25,22,87,13,75
+10053,Madison Rivera,27,Female,Doctor,"$95,145 ",Yes,No,Tablet,FPS,Competition,9,534,4,62,27,12,58,37,3
+10054,Carter Young,25,Other,Developer,"$164,950 ",No,Yes,Cell Phone,Strategy,Loneliness,5,840,4,59,52,77,85,85,10
+10055,Abigail Turnner,34,Other,Designer,"$190,691 ",No,No,Tablet,Horror,Escapism,7,22,10,98,33,88,21,91,99
+10056,Luke Hall,29,Other,Nurse,"$70,019 ",Yes,No,Cell Phone,Survival,Relaxation,1,132,4,1,72,94,34,5,87
+10057,Avery Martinez,34,Female,Designer,"$46,266 ",No,Yes,Tablet,MMORPG,Relaxation,4,583,9,74,92,29,21,97,27
+10058,Emma Clark,34,Female,Designer,"$58,279 ",Yes,No,Nintendo,Horror,Loneliness,6,528,7,1,97,23,48,94,78
+10059,Wyatt King,34,Male,Writer,"$179,104 ",No,No,Xbox,Horror,Social Interaction,11,664,9,76,46,66,16,77,92
+10060,Samantha Allen,31,Other,Other,"$72,728 ",Yes,Yes,Xbox,Fighting,Social Interaction,11,700,4,41,59,36,88,35,52
+10061,Isaac Scott,21,Male,Teacher,"$57,651 ",No,Yes,Cell Phone,RPG,Relaxation,3,74,5,90,31,3,73,6,85
+10062,Victoria Johnson,25,Female,Nurse,"$187,187 ",No,Yes,Tablet,Racing,Entertainment,11,174,8,18,77,48,24,71,34
+10063,Lincoin Campbell,34,Male,Doctor,"$147,992 ",Yes,Yes,Cell Phone,Racing,Relaxation,1,911,6,58,80,91,59,24,7
+10064,Eleanor Harris,32,Female,Teacher,"$145,970 ",Yes,Yes,PlayStation,Sports,Competition,5,463,8,45,19,80,9,80,36
+10065,Nathaniel Davis,22,Other,Teacher,"$187,288 ",Yes,Yes,Cell Phone,Horror,Habit,7,633,11,44,83,97,22,2,19
+10066,Lily Green,27,Female,Manager,"$170,303 ",No,No,PlayStation,Sports,Stress Relief,7,979,7,16,21,70,27,12,28
+10067,Oliver Baker,31,Male,Designer,"$180,067 ",Yes,No,Nintendo,FPS,Challenge,6,127,10,51,70,61,74,6,4
+10068,Amelia Nelson,27,Female,Designer,"$15,700 ",No,No,Xbox,RPG,Relaxation,1,470,9,41,10,51,82,42,42
+10069,John Smith,20,Male,Teacher,"$85,614 ",No,No,Nintendo,Sports,Challenge,4,182,5,17,3,16,82,61,77
+10070,Sophia Green,30,Female,Engineer,"$89,200 ",Yes,Yes,PC,Survival,Competition,8,927,11,11,38,47,92,17,30
+10071,Levi Moore,20,Male,Engineer,"$32,396 ",Yes,Yes,Nintendo,Sports,Escapism,9,168,9,70,17,73,15,88,79
+10072,Stella Brown,31,Female,Artist,"$146,861 ",Yes,No,PlayStation,Strategy,Stress Relief,9,729,9,32,62,49,46,58,16
+10073,Julian Anderson,32,Male,Designer,"$66,177 ",Yes,Yes,Nintendo,Horror,Stress Relief,10,714,9,33,99,43,32,96,87
+10074,Grace Lee,28,Female,Other,"$130,042 ",Yes,No,PC,RPG,Escapism,1,327,6,79,22,2,94,13,78
+10075,David Thompson,18,Male,Student,"$177,524 ",Yes,No,Xbox,Horror,Loneliness,8,896,9,37,21,82,40,1,70
+10076,Owen Martin,22,Male,Student,"$22,878 ",No,Yes,PlayStation,Horror,Loneliness,8,852,6,45,63,54,84,43,64
+10077,Aurora Carter,28,Female,Teacher,"$52,134 ",Yes,No,PC,RPG,Challenge,1,508,4,98,72,67,70,22,52
+10078,Sebastian Perez,26,Male,Doctor,"$115,509 ",Yes,No,Xbox,RPG,Entertainment,11,742,10,48,97,90,27,13,72
+10079,Hailey Walker,19,Female,Student,"$132,612 ",No,No,Cell Phone,Fighting,Loneliness,3,547,8,90,43,89,69,16,45
+10080,Charles Wright,23,Male,Teacher,"$72,232 ",Yes,No,Xbox,RPG,Competition,6,834,6,82,58,74,54,69,12
+10081,Zoe Mitchell,26,Female,Teacher,"$105,964 ",No,No,PlayStation,Sports,Escapism,10,513,6,29,15,84,12,61,34
+10082,Jeremiah Phillips,20,Male,Lawyer,"$25,737 ",Yes,No,Cell Phone,Fighting,Habit,4,957,11,41,50,87,80,48,87
+10083,Camla King,22,Female,Artist,"$176,245 ",Yes,Yes,PC,Strategy,Challenge,9,347,7,67,42,28,94,62,22
+10084,Eli Rivera,25,Female,Writer,"$7,945 ",No,Yes,Tablet,Horror,Loneliness,5,58,5,88,64,43,24,52,15
+10085,Nora Adams,24,Female,Developer,"$42,144 ",No,No,PC,FPS,Habit,4,355,5,77,84,28,68,46,67
+10086,Sebastian Stewart,31,Male,Artist,"$152,315 ",Yes,No,Nintendo,RPG,Relaxation,7,521,8,33,68,65,47,65,45
+10087,Addison Torres,34,Male,Lawyer,"$145,656 ",Yes,Yes,Cell Phone,Horror,Boredom,8,859,10,13,48,21,28,91,15
+10088,Hunter White,21,Male,Lawyer,"$169,987 ",Yes,No,PC,MMORPG,Boredom,1,504,11,44,2,65,15,15,86
+10089,Violet Sanchez,25,Female,Designer,"$91,691 ",Yes,Yes,PlayStation,Horror,Stress Relief,10,555,10,53,45,3,81,3,68
+10090,Christian Hall,21,Other,Designer,"$168,469 ",Yes,Yes,Cell Phone,MOBA,Loneliness,8,152,8,10,6,44,57,70,7
+10092,Adrian Young,33,Male,Student,"$52,542 ",No,No,Cell Phone,Fighting,Boredom,11,597,6,98,99,96,34,87,94
+10093,Clara Mitchell,28,Female,Other,"$52,990 ",No,No,Nintendo,Survival,Competition,4,767,10,9,31,96,45,91,34
+10094,Evan Roberts,19,Male,Nurse,"$121,365 ",No,Yes,PC,Horror,Relaxation,6,29,6,80,67,67,12,48,34
+10095,Sophie Baker,28,Female,Student,"$118,186 ",Yes,Yes,Tablet,Sports,Stress Relief,3,121,4,65,94,97,39,26,44
+10096,Thomas Harris,24,Male,Designer,"$139,907 ",Yes,No,PlayStation,FPS,Relaxation,1,162,10,98,53,39,88,77,82
+10097,Jose Martinez,21,Other,Student,"$52,782 ",No,No,Nintendo,Survival,Stress Relief,11,199,7,7,75,50,47,67,59
+10098,Adrian Young,29,Male,Lawyer,"$47,820 ",No,Yes,Nintendo,MOBA,Habit,9,457,6,12,34,76,27,37,84
+10099,Clara Mitchell,22,Female,Designer,"$16,684 ",Yes,No,Cell Phone,FPS,Escapism,3,52,4,13,71,40,21,94,66
+10100,Steven Rogers,25,Male,Artist,"$116,643 ",No,No,PlayStation,MMORPG,Relaxation,11,363,11,27,97,37,48,72,4
+10101,Thomas Lewis,33,Male,Designer,"$188,647 ",Yes,No,PC,Survival,Challenge,5,541,8,95,39,88,10,70,17
+10102,Lillian Clark,33,Female,Manager,"$97,873 ",No,Yes,Xbox,Strategy,Entertainment,9,968,6,28,21,35,12,64,40
+10103,Julian Young,22,Male,Lawyer,"$154,302 ",No,No,PlayStation,Horror,Loneliness,3,166,5,6,49,79,32,74,44
+10104,Ezra Lee,33,Other,Developer,"$185,484 ",Yes,No,Cell Phone,Fighting,Escapism,7,667,10,73,92,12,87,84,26
+10105,Ellie Campbell,27,Female,Teacher,"$95,984 ",No,No,Cell Phone,Strategy,Social Interaction,11,162,8,63,35,87,49,84,51
+10106,Jonathan Adams,34,Male,Lawyer,"$36,533 ",Yes,Yes,Tablet,Sports,Boredom,9,284,9,84,50,99,94,2,11
+10107,Paisley Martinez,20,Female,Student,"$176,058 ",No,No,Xbox,FPS,Boredom,6,574,5,42,63,83,75,5,69
+10109,Natasha Bell,29,Female,Other,"$149,019 ",No,Yes,PC,Fighting,Stress Relief,9,951,8,20,33,81,23,46,56
+10110,Landon Roberts,28,Male,Doctor,"$145,707 ",Yes,Yes,PC,Survival,Challenge,1,385,9,36,16,80,59,53,22
+10111,Brooklyn White,20,Male,Teacher,"$84,232 ",No,Yes,Nintendo,Fighting,Social Interaction,5,985,8,27,73,73,26,11,4
+10112,Gabriel Lee,18,Male,Designer,"$193,837 ",Yes,Yes,PC,MMORPG,Challenge,5,307,8,29,33,60,98,90,71
+10113,Avery Stewart,27,Female,Nurse,"$55,226 ",Yes,Yes,Xbox,Strategy,Loneliness,8,934,6,50,26,70,86,67,45
+10114,Nicholas Sanchez,27,Other,Teacher,"$156,333 ",No,No,Tablet,Sports,Loneliness,8,67,9,99,72,24,80,80,88
+10115,Audrey Thompson,33,Female,Lawyer,"$82,693 ",No,No,PlayStation,RPG,Loneliness,3,65,8,85,1,47,98,84,90
+10116,Charles Allen,20,Male,Writer,"$150,439 ",No,No,Nintendo,RPG,Escapism,7,85,6,61,12,71,50,37,95
+10117,Scarlett Nelson,21,Female,Teacher,"$182,081 ",No,No,Tablet,RPG,Competition,3,583,8,50,96,2,4,7,78
+10118,Luke Martin,29,Male,Writer,"$191,173 ",Yes,Yes,Cell Phone,Racing,Habit,4,968,9,25,46,19,47,83,87
+10119,Hannah Harris,34,Female,Developer,"$12,855 ",No,No,Nintendo,Horror,Stress Relief,3,287,6,5,18,35,14,99,19
+10120,Cameron Torres,31,Female,Artist,"$53,759 ",No,No,Nintendo,FPS,Competition,7,235,5,80,6,58,13,93,97
+10121,Stella Adams,32,Other,Other,"$39,222 ",Yes,Yes,Cell Phone,Strategy,Entertainment,8,334,5,64,61,2,88,39,34
+10122,Logan Green,28,Male,Designer,"$157,972 ",No,Yes,Xbox,MOBA,Relaxation,8,122,5,24,81,77,99,97,50
+10123,Leah Wright,33,Female,Artist,"$3,615 ",Yes,Yes,PC,Sports,Habit,2,387,9,80,51,66,45,41,66
+10124,Aiden Gonzalez,27,Male,Designer,"$47,399 ",No,No,Tablet,MOBA,Social Interaction,3,494,11,13,77,4,42,70,52
+10125,Harper Walker,30,Female,Designer,"$164,576 ",Yes,No,Nintendo,MMORPG,Stress Relief,8,67,6,7,83,59,78,92,46
+10126,Isaac Walker,19,Other,Writer,"$10,294 ",No,No,Cell Phone,Horror,Boredom,3,811,10,82,5,10,82,25,66
+10127,Zoe Phillips,28,Female,Artist,"$105,339 ",No,No,Cell Phone,Strategy,Social Interaction,10,909,8,73,16,33,37,54,70
+10128,Jackson King,18,Male,Doctor,"$192,474 ",Yes,No,Cell Phone,Survival,Social Interaction,10,569,11,70,63,53,42,46,24
+10129,Amellia Ortiz,25,Female,Student,"$64,297 ",Yes,No,PlayStation,Survival,Stress Relief,6,805,4,40,16,64,77,8,27
+10130,Wyatt Ramos,26,Male,Other,"$26,323 ",Yes,Yes,Tablet,Fighting,Loneliness,11,517,8,50,94,22,74,9,24
+10131,Olivia Kelly,20,Female,Teacher,"$98,413 ",No,Yes,Cell Phone,FPS,Relaxation,6,882,9,31,8,30,84,86,78
+10132,Alexander Regan,21,Male,Doctor,"$3,462 ",Yes,Yes,Xbox,Horror,Entertainment,5,738,7,85,26,20,56,82,69
+10133,Lily Quin,20,Female,Student,"$187,553 ",No,No,Cell Phone,MMORPG,Stress Relief,3,213,10,23,80,35,35,90,68
+10134,Ryan Murray,30,Male,Lawyer,"$85,494 ",No,Yes,Tablet,MOBA,Entertainment,2,443,11,51,63,35,10,45,34
+10135,Liam Smith,26,Male,Engineer,"$134,785 ",Yes,No,Cell Phone,Survival,Stress Relief,8,96,8,98,23,20,40,41,89
+10136,Emma Johnson,27,Female,Developer,"$154,765 ",Yes,No,Xbox,MOBA,Habit,9,968,10,48,68,97,60,69,60
+10137,Noah Williams,18,Male,Developer,"$46,530 ",Yes,No,Tablet,Sports,Loneliness,5,291,5,41,25,33,34,9,96
+10138,Ava Brown,31,Female,Writer,"$199,724 ",No,No,Nintendo,MOBA,Relaxation,11,820,9,4,33,92,75,65,76
+10139,Olivia Jones,30,Female,Teacher,"$36,945 ",No,No,Tablet,MOBA,Competition,7,941,11,72,20,72,3,21,95
+10140,Isabella Garcia,23,Female,Doctor,"$28,054 ",No,No,Nintendo,RPG,Relaxation,6,477,8,19,51,73,72,95,57
+10141,Elijah Martinez,21,Female,Doctor,"$93,797 ",No,Yes,PC,Racing,Loneliness,10,912,4,7,77,36,2,58,46
+10142,Sophia Hernandez,33,Female,Lawyer,"$33,404 ",No,No,PlayStation,MMORPG,Relaxation,10,612,11,70,42,23,77,34,3
+10143,Lucas Lee,29,Male,Designer,"$112,562 ",Yes,No,PlayStation,RPG,Escapism,10,471,4,17,66,27,22,48,89
+10145,Mason Rodriquez,28,Male,Engineer,"$56,018 ",No,No,Xbox,MMORPG,Entertainment,1,846,11,33,86,11,11,48,18
+10146,Mia Wilson,32,Female,Designer,"$50,746 ",No,No,Tablet,Fighting,Loneliness,11,728,6,20,44,92,52,51,96
+10147,Ethan Anderson,33,Other,Nurse,"$187,295 ",Yes,Yes,Tablet,Survival,Entertainment,7,123,11,46,78,27,49,75,77
+10148,Charlotte  Thomas,27,Other,Developer,"$75,899 ",No,Yes,Cell Phone,Strategy,Loneliness,9,336,11,5,16,17,80,58,83
+10149,James Moore,22,Other,Artist,"$96,872 ",No,No,PC,Racing,Habit,6,557,11,9,14,18,13,48,47
+10150,Harper Martin,23,Female,Nurse,"$61,917 ",Yes,Yes,Xbox,Horror,Habit,4,137,4,75,97,72,54,68,34
+10151,Benjamin Jackson,29,Male,Manager,"$37,583 ",No,No,PlayStation,Sports,Boredom,7,800,6,52,3,4,67,37,20
+10152,Evelyn Nojan,31,Female,Artist,"$150,568 ",Yes,No,Tablet,Survival,Social Interaction,4,946,8,84,57,95,37,20,49
+10153,Henry White,28,Other,Teacher,"$87,923 ",Yes,Yes,PlayStation,Survival,Habit,1,487,5,60,95,14,34,82,35
+10154,Layla Nguyen,19,Female,Writer,"$11,179 ",Yes,Yes,Cell Phone,Fighting,Habit,3,514,8,98,10,45,48,76,55
+10155,Lily Chen,26,Female,Engineer,"$99,763 ",No,No,Cell Phone,FPS,Entertainment,10,616,10,34,7,89,9,96,2
+10156,Logan Jackson,30,Female,Engineer,"$150,061 ",No,Yes,Cell Phone,Survival,Boredom,5,933,7,18,23,75,49,99,81
+10157,Scarlett Johnson,31,Female,Doctor,"$45,199 ",Yes,Yes,Xbox,Survival,Stress Relief,3,396,10,50,20,22,6,78,2
+10158,Carla O'Dwyer,24,Male,Doctor,"$36,203 ",Yes,Yes,Nintendo,Racing,Loneliness,7,47,5,19,11,25,29,22,41
+10159,Grace Loughlin,18,Female,Student,"$44,137 ",Yes,Yes,PC,MOBA,Stress Relief,6,373,4,6,33,29,50,93,33
+10160,Michael McGrath,33,Male,Teacher,"$183,817 ",No,No,PlayStation,MOBA,Competition,10,992,8,70,18,94,33,74,92
+10161,Chloe Clancy,27,Female,Developer,"$32,481 ",No,No,Tablet,MMORPG,Competition,3,745,6,14,46,57,43,47,89
+10162,Jackson Treacy,19,Male,Nurse,"$130,678 ",Yes,No,Nintendo,Sports,Challenge,8,926,9,79,45,63,60,94,89
+10163,Zoe Hill,27,Other,Manager,"$123,777 ",Yes,Yes,Xbox,Horror,Challenge,1,600,10,20,67,41,93,15,63
+10164,Jack Scott,24,Male,Student,"$103,133 ",Yes,No,Xbox,Survival,Relaxation,5,512,4,2,16,32,18,99,75
+10165,Riley Green,28,Female,Artist,"$118,353 ",No,Yes,Cell Phone,MMORPG,Loneliness,9,142,7,28,83,28,16,52,61
+10166,Ayden Murphy,27,Male,Artist,"$82,088 ",No,No,Cell Phone,Strategy,Habit,7,222,4,56,2,82,97,41,33
+10167,Aria Baker,25,Other,Teacher,"$65,300 ",No,Yes,PlayStation,MMORPG,Challenge,10,723,4,91,20,199,18,47,14
+10168,Samuel Gonzalez,26,Other,Teacher,"$196,804 ",Yes,Yes,Nintendo,Fighting,Loneliness,8,887,6,50,64,55,98,72,6
+10169,Ellie Nelson,19,Other,Artist,"$47,117 ",Yes,No,Xbox,Racing,Social Interaction,11,96,7,41,74,26,92,56,51
+10170,Alejandro Carter,33,Male,Nurse,"$69,974 ",No,No,PlayStation,Survival,Competition,2,805,11,36,17,17,86,47,46
+10171,Matthew Perez,32,Male,Lawyer,"$34,438 ",Yes,No,Xbox,Fighting,Entertainment,4,130,5,72,8,30,54,61,39
+10172,Juan Roberts,23,Other,Lawyer,"$42,706 ",Yes,Yes,PC,Survival,Social Interaction,2,822,10,52,6,89,43,26,61
+10173,Mila Prat,24,Other,Writer,"$84,473 ",Yes,Yes,Cell Phone,Survival,Loneliness,5,86,9,79,2,87,90,6,12
+10174,Ava Kone,23,Female,Artist,"$155,015 ",Yes,Yes,Tablet,Fighting,Stress Relief,10,584,8,15,25,20,7,16,24
+10175,Joseph Adams,34,Male,Artist,"$23,611 ",No,Yes,Xbox,Sports,Habit,7,38,5,51,11,33,17,51,49
+10176,Nora He,26,Female,Artist,"$18,578 ",Yes,No,Cell Phone,Survival,Relaxation,2,996,4,59,1,94,93,25,32
+10177,Lucas Sheridan,20,Male,Nurse,"$178,081 ",Yes,Yes,Nintendo,RPG,Social Interaction,11,570,8,8,12,10,91,3,95
+10178,Ethan Gleeson,29,Male,Other,"$183,655 ",No,Yes,Xbox,Strategy,Competition,3,703,11,93,72,48,48,30,13
+10179,Leo Ponce,18,Other,Student,"$175,360 ",Yes,No,Nintendo,Racing,Boredom,6,343,10,95,5,70,39,46,79
+10180,Emma Rios,23,Female,Engineer,"$124,850 ",Yes,Yes,Nintendo,Survival,Relaxation,1,296,6,80,27,10,28,76,22
+10181,Mia Rivera,20,Female,Engineer,"$61,546 ",Yes,No,PC,Racing,Escapism,9,901,7,16,88,27,1,60,17
+10182,Mason Smith,23,Other,Student,"$27,437 ",Yes,Yes,Nintendo,RPG,Social Interaction,7,204,5,93,3,70,97,79,97
+10183,Issac Johnson,31,Other,Doctor,"$100,429 ",Yes,No,PlayStation,Racing,Escapism,11,285,10,31,60,17,56,16,88
+10184,Ella  Montoya,20,Other,Manager,"$15,151 ",Yes,Yes,Xbox,FPS,Escapism,5,756,8,8,63,4,79,5,2
+10185,Aubrey Serrano,31,Male,Manager,"$112,640 ",No,No,PlayStation,Racing,Social Interaction,3,431,6,12,43,89,88,92,46
+10186,Matthew Sweeney,30,Other,Nurse,"$22,639 ",No,Yes,Nintendo,Racing,Competition,7,736,8,53,83,6,41,80,8
+10187,Daniel Whelan,18,Other,Student,"$149,711 ",Yes,Yes,Nintendo,MOBA,Competition,2,252,9,25,68,99,80,46,56
+10188,Chloe Brady,29,Female,Manager,"$24,482 ",No,No,PC,RPG,Relaxation,7,193,10,66,22,68,72,38,17
+10189,Addison Browne,34,Female,Artist,"$191,928 ",No,No,PlayStation,Fighting,Competition,6,405,9,89,2,86,67,97,11
+10190,Sebastian Ronney,20,Other,Nurse,"$80,736 ",No,Yes,Nintendo,Survival,Competition,3,102,9,8,89,25,7,64,92
+10191,Wyatt Tang,31,Other,Nurse,"$2,705 ",No,No,Cell Phone,Fighting,Habit,1,938,6,55,4,94,81,75,88
+10192,Ellie Lee,25,Female,Other,"$28,917 ",No,No,Cell Phone,Fighting,Boredom,10,241,6,28,95,45,8,17,49
+10193,Aria O'Dwyer,32,Female,Artist,"$183,800 ",Yes,Yes,Nintendo,MOBA,Stress Relief,6,15,11,78,93,78,38,68,18
+10194,Samuel O'Conner,25,Other,Other,"$195,341 ",Yes,No,PC,RPG,Habit,4,511,5,77,33,28,82,84,27
+10195,David Tracy,34,Male,Manager,"$147,350 ",Yes,No,PC,Racing,Challenge,2,872,4,95,64,60,27,10,52
+10196,Mila Choi,27,Female,Doctor,"$56,527 ",Yes,Yes,PlayStation,Horror,Loneliness,8,501,10,25,97,92,91,71,16
+10197,Gabriel Kang,19,Male,Engineer,"$165,048 ",No,Yes,Cell Phone,Horror,Habit,7,204,8,93,98,9,61,99,96
+10198,Julian Castro,20,Other,Student,"$9,168 ",Yes,Yes,Xbox,Sports,Boredom,11,54,6,33,98,80,15,23,98
+10199,Owen Smith,31,Other,Writer,"$104,008 ",Yes,No,PC,RPG,Challenge,9,567,4,81,55,81,8,57,99
+10200,Piper Ronney,30,Female,Nurse,"$111,319 ",No,Yes,Xbox,RPG,Challenge,10,965,5,83,21,39,88,47,92
+10201,Hazel Morales,31,Female,Nurse,$206 ,Yes,Yes,PlayStation,Survival,Entertainment,10,717,5,68,58,53,63,79,43
+10202,Luke Ramos,18,Male,Lawyer,"$143,475 ",No,Yes,Cell Phone,Horror,Competition,2,689,9,69,57,70,62,18,22
+10203,Violet Cooper,27,Female,Writer,"$118,748 ",No,Yes,Tablet,RPG,Relaxation,3,92,9,8,87,60,94,83,50
+10204,Jose Flores,24,Other,Doctor,"$22,980 ",No,No,Xbox,Fighting,Boredom,3,80,8,2,32,1,53,72,2
+10205,Violet Vargas,25,Female,Nurse,"$93,376 ",Yes,Yes,Xbox,Strategy,Loneliness,4,947,8,73,71,11,66,61,24
+10206,Maria Chavez,24,Other,Writer,"$121,850 ",Yes,Yes,PC,MMORPG,Competition,4,540,11,1,26,38,24,62,78
+10207,Julian Herrera,30,Male,Artist,"$52,655 ",Yes,Yes,Cell Phone,Strategy,Social Interaction,4,474,7,68,47,12,8,6,28
+10208,Lucy Ortiz,26,Female,Lawyer,"$53,711 ",No,Yes,Cell Phone,Strategy,Loneliness,7,62,6,91,36,19,99,62,93
+10209,Victoria Croxx,25,Other,Nurse,"$123,131 ",Yes,Yes,Xbox,RPG,Challenge,11,472,11,86,30,83,46,47,58
+10210,Levi Howard,31,Male,Developer,"$42,117 ",No,Yes,Xbox,Sports,Social Interaction,3,555,5,98,24,44,32,80,44
+10211,Paisley Ward,34,Male,Writer,"$142,585 ",No,Yes,PlayStation,Sports,Challenge,8,979,10,22,83,15,41,57,92
+10212,Gabriel Torres,28,Male,Writer,"$115,985 ",No,No,Nintendo,Sports,Escapism,6,848,4,45,26,3,52,60,71
+10213,Audrey Peterson,26,Other,Engineer,"$16,693 ",Yes,Yes,Nintendo,Strategy,Entertainment,6,137,7,35,88,78,51,88,5
+10214,Caleb Gray,34,Male,Nurse,"$158,810 ",Yes,No,PC,Strategy,Stress Relief,7,298,5,31,69,48,6,30,96
+10215,Brooklyn Ramirez,31,Male,Developer,"$115,751 ",No,No,Cell Phone,Racing,Entertainment,6,140,8,56,72,64,85,35,93
+10216,James Brown,24,Male,Manager,"$26,019 ",No,No,PlayStation,MOBA,Social Interaction,1,507,7,87,3,68,41,54,71
+10217,David James,30,Male,Nurse,"$52,975 ",Yes,No,Cell Phone,Racing,Escapism,5,996,8,55,6,19,55,63,71
+10218,Savannah Watson,27,Other,Manager,"$180,798 ",Yes,No,Xbox,MOBA,Stress Relief,2,832,10,17,2,91,84,36,71
+10219,Ezra Brooks,24,Female,Writer,"$89,076 ",Yes,No,Xbox,Sports,Challenge,1,607,4,48,75,9,98,25,88
+10220,Claire Flores,26,Female,Manager,"$163,444 ",Yes,Yes,PlayStation,Strategy,Challenge,11,376,4,20,85,62,4,79,78
+10221,Sofia Watt,21,Other,Artist,"$104,272 ",No,No,Cell Phone,Survival,Entertainment,8,280,5,75,79,44,31,82,64
+10222,Aaron Rivera,34,Male,Teacher,"$68,415 ",No,Yes,PC,MMORPG,Loneliness,9,994,6,89,35,3,79,11,79
+10223,David Jamse,30,Male,Writer,"$152,518 ",No,No,Xbox,Horror,Boredom,1,608,10,91,9,63,44,6,98
+10224,Jess Castilio,26,Female,Writer,"$90,302 ",Yes,No,PC,Survival,Entertainment,1,686,8,67,50,9,96,15,88
+10225,Savannah Walsh,18,Female,Other,"$123,226 ",Yes,Yes,PlayStation,Sports,Relaxation,8,466,4,16,45,46,57,38,89
+10226,Paul Ryan,21,Male,Designer,"$153,255 ",Yes,Yes,Xbox,Horror,Competition,5,878,8,85,87,25,27,23,5
+10227,Ezra Bryan,27,Other,Engineer,"$97,775 ",Yes,No,Cell Phone,Sports,Stress Relief,8,466,5,7,47,82,21,91,2
+10228,Ericka McCarthy,27,Other,Student,"$91,471 ",No,Yes,PlayStation,Sports,Loneliness,4,51,8,40,32,71,56,42,6
+10229,Claire O'Leary,20,Other,Student,"$75,948 ",Yes,No,Nintendo,Racing,Social Interaction,5,38,5,74,3,21,95,43,13
+10230,Matthew Lee,29,Male,Developer,"$53,511 ",Yes,No,Xbox,Fighting,Relaxation,1,216,9,85,33,99,46,87,28
+10231,Aaron Kim,21,Male,Student,"$68,521 ",No,No,Xbox,Sports,Escapism,10,203,10,20,75,51,15,78,6
+10232,Tobby Latif,32,Other,Designer,"$120,541 ",Yes,Yes,Tablet,MMORPG,Relaxation,8,946,8,71,94,72,26,35,25
+10233,Penelope Long,21,Female,Artist,"$57,694 ",No,Yes,Xbox,Horror,Relaxation,5,345,4,31,86,3,58,52,73
+10234,Kiki Smith,27,Other,Artist,"$161,650 ",No,No,Cell Phone,FPS,Stress Relief,3,84,9,87,21,64,46,3,2
+10235,Nathan Perry,29,Other,Teacher,"$44,783 ",Yes,No,Cell Phone,Fighting,Escapism,8,637,9,59,31,68,62,16,97
+10236,Lucy Fang,28,Female,Other,"$30,029 ",Yes,No,Nintendo,Fighting,Challenge,3,73,10,78,69,4,48,21,9
+10237,Sam Bryant,30,Other,Nurse,"$75,667 ",No,Yes,PC,MMORPG,Stress Relief,7,589,4,20,95,8,56,70,16
+10238,Pablo James,20,Other,Nurse,"$3,108 ",No,No,PlayStation,Sports,Boredom,6,543,6,50,7,7,50,30,38
+10239,Grayson White,22,Other,Doctor,"$142,527 ",No,No,Cell Phone,RPG,Boredom,8,512,7,56,33,15,10,51,63
+10240,Grace Brown,21,Female,Doctor,"$50,592 ",Yes,No,PlayStation,Sports,Relaxation,8,683,4,99,87,21,69,56,87
+10241,Ellie Wood,30,Female,Engineer,"$107,018 ",No,No,PlayStation,Racing,Social Interaction,1,93,4,49,38,75,78,95,48
+10242,Daniel Gonzales,29,Other,Designer,"$174,261 ",No,Yes,PC,Racing,Entertainment,2,122,11,42,20,38,77,68,90
+10243,Matthew Murray,31,Male,Developer,"$42,212 ",No,No,Cell Phone,FPS,Habit,11,278,5,81,89,22,71,11,40
+10244,Lola Zhang,25,Other,Lawyer,"$112,087 ",No,No,Cell Phone,Racing,Competition,3,272,6,44,47,23,44,60,72
+10245,Stella Li,28,Other,Nurse,"$101,085 ",No,Yes,Cell Phone,RPG,Challenge,5,122,7,41,28,81,18,77,86
+10246,Luis Lynch,18,Male,Writer,"$68,206 ",No,Yes,Tablet,MMORPG,Habit,5,442,7,18,68,84,17,58,59
+10247,Ryan Russel,21,Male,Student,"$174,920 ",No,No,Cell Phone,RPG,Challenge,1,377,10,82,26,34,5,70,58
+10248,Misty Sweeney,21,Other,Designer,"$17,130 ",No,Yes,Tablet,Horror,Stress Relief,8,309,7,99,46,47,39,78,35
+10249,Elly Mason,32,Other,Engineer,"$32,963 ",No,No,PC,RPG,Loneliness,6,814,10,51,27,49,98,4,67
+10250,Eric Espinoza,28,Other,Doctor,"$72,725 ",No,Yes,Nintendo,Survival,Escapism,10,597,9,43,59,74,41,54,1
+10251,Christian Bryant,33,Male,Other,"$66,520 ",No,No,Tablet,Racing,Escapism,1,620,6,54,71,12,15,1,58
+10252,Justin Soto,32,Male,Manager,"$179,493 ",Yes,Yes,Xbox,Horror,Relaxation,3,991,4,61,24,20,80,5,85
+10253,Kevin Ramos,33,Other,Nurse,"$99,855 ",Yes,No,Cell Phone,MOBA,Habit,10,391,9,21,65,4,28,34,52
+10254,Hunter Cooper,30,Other,Student,"$3,258 ",No,Yes,Tablet,Fighting,Challenge,6,126,5,40,13,50,73,92,90
+10255,Lucy Bell,30,Female,Other,"$78,821 ",Yes,Yes,PlayStation,Strategy,Habit,11,785,5,15,11,91,95,33,36
+10256,Juan Sanchez,27,Male,Student,"$192,223 ",Yes,No,Nintendo,RPG,Competition,5,763,9,68,22,4,83,25,83
+10257,Chris Evans,34,Male,Artist,"$81,550 ",Yes,Yes,PC,MOBA,Entertainment,2,907,4,68,90,73,73,80,44
+10258,Xan Bryant,21,Male,Writer,"$69,264 ",Yes,Yes,PC,Survival,Challenge,2,697,6,46,20,24,49,19,31
+10259,Ling Gao,33,Male,Nurse,"$65,894 ",No,No,PlayStation,MMORPG,Stress Relief,1,598,7,73,29,65,28,37,28
+10260,Grace Johnson,29,Female,Other,"$197,050 ",Yes,No,Xbox,Strategy,Loneliness,9,989,6,51,25,38,74,75,37
+10261,Savannah Williams,24,Female,Designer,"$115,066 ",No,Yes,Cell Phone,Strategy,Competition,3,761,7,29,59,8,60,97,48
+10262,Eric Brown,32,Other,Lawyer,"$109,128 ",Yes,Yes,PC,Fighting,Stress Relief,4,119,4,67,61,98,19,91,14
+10263,Juan Davis,24,Male,Artist,"$57,334 ",No,Yes,Cell Phone,Strategy,Escapism,4,601,7,70,41,93,28,80,6
+10264,Jesus Miller,18,Male,Developer,"$61,029 ",No,No,PlayStation,Horror,Loneliness,8,322,8,99,47,45,26,52,55
+10265,Nate Smith,21,Male,Manager,"$34,677 ",No,Yes,PC,Horror,Relaxation,6,800,11,41,19,34,24,57,31
+10266,Morgan Fredson,30,Male,Designer,"$123,644 ",No,Yes,Xbox,FPS,Stress Relief,1,88,11,54,67,74,1,89,24
+10268,Kate Garcia,28,Other,Engineer,"$121,688 ",Yes,No,Nintendo,MMORPG,Boredom,7,875,11,54,91,72,86,82,65
+10269,Emilia Howard,32,Female,Lawyer,"$46,826 ",No,No,PC,Horror,Stress Relief,10,855,9,18,86,54,82,9,39
+10270,Faith Adama,24,Female,Artist,"$6,334 ",No,No,PC,Fighting,Loneliness,7,966,4,50,88,53,2,11,80
+10271,Josh Brooks,31,Male,Teacher,"$168,553 ",No,No,PlayStation,Horror,Competition,2,932,6,65,84,39,23,37,45
+10272,Tina Nguyen,25,Female,Other,"$151,590 ",No,Yes,Cell Phone,FPS,Relaxation,2,26,6,62,84,55,88,21,13
+10273,Riley Foster,29,Female,Teacher,"$102,702 ",Yes,No,Tablet,Horror,Challenge,7,422,10,43,52,36,47,61,59
+10274,Sofia Khalifa ,25,Female,Other,"$71,737 ",No,No,PlayStation,Racing,Challenge,6,53,6,25,90,38,85,32,9
+10275,Anthony Gonzalez,18,Male,Engineer,"$36,068 ",Yes,Yes,Xbox,Survival,Relaxation,10,294,9,64,8,12,95,78,26
+10276,Jackie Tapia,32,Female,Manager,"$5,554 ",No,Yes,Nintendo,Strategy,Stress Relief,9,698,7,4,12,13,97,79,45
+10277,Leah Collins,30,Other,Teacher,"$167,595 ",No,Yes,Tablet,MOBA,Loneliness,11,190,7,85,16,2,84,41,28
+10278,Paul Kennedy,34,Male,Other,"$66,764 ",No,Yes,Xbox,FPS,Habit,2,607,9,80,81,43,39,48,3
+10279,Landon Ward,27,Female,Writer,"$147,001 ",No,Yes,Nintendo,Horror,Boredom,10,921,9,43,37,6,33,76,46
+10280,Jack Hogan,21,Male,Other,"$155,290 ",Yes,No,Nintendo,RPG,Social Interaction,6,409,5,21,32,53,19,13,64
+10281,Lily Sanders,18,Female,Teacher,"$66,861 ",No,No,Nintendo,Fighting,Loneliness,6,911,9,14,20,38,43,8,51
+10282,Chris Murphy,23,Male,Writer,"$128,394 ",Yes,Yes,PC,FPS,Loneliness,1,651,4,1,83,64,13,14,35
+10283,John Ross,29,Other,Teacher,"$133,222 ",No,Yes,Nintendo,Fighting,Social Interaction,2,118,8,91,69,46,58,21,94
+10284,Marianna Ross,20,Other,Engineer,"$126,620 ",Yes,No,Xbox,Racing,Boredom,4,45,4,28,11,35,72,21,36
+10285,Ariana Powell,32,Female,Other,"$21,873 ",Yes,Yes,Nintendo,RPG,Loneliness,11,692,9,65,91,3,33,15,58
+10286,Chris Parker,27,Other,Engineer,"$184,514 ",Yes,Yes,PC,Fighting,Entertainment,2,159,8,64,38,3,74,33,81
+10287,Isabella Johnson,27,Other,Manager,"$88,440 ",Yes,Yes,PC,MMORPG,Relaxation,6,286,7,35,46,1,39,81,89
+10288,Drake Smith,20,Other,Other,"$2,649 ",No,Yes,Nintendo,RPG,Habit,6,693,7,44,81,74,52,28,21
+10289,Vivian Long,18,Other,Student,"$105,592 ",Yes,Yes,PlayStation,Strategy,Loneliness,9,925,8,8,46,32,25,40,22
+10290,Mia Lang,34,Other,Other,"$8,186 ",No,Yes,Xbox,Fighting,Entertainment,8,103,8,43,13,63,38,19,70
+10291,Thomas Petterson,27,Other,Doctor,"$32,336 ",Yes,No,Xbox,Racing,Social Interaction,8,621,10,81,71,63,38,47,85
+10292,Josh Griffin,31,Male,Lawyer,"$72,120 ",Yes,Yes,Nintendo,Survival,Habit,2,159,6,22,31,72,78,14,36
+10293,Paisley Ross,22,Other,Engineer,"$119,360 ",Yes,Yes,PlayStation,Survival,Entertainment,7,842,6,45,6,10,21,77,58
+10294,Arthur Kelly,26,Other,Lawyer,"$119,875 ",No,Yes,PlayStation,Strategy,Social Interaction,1,432,9,96,7,84,21,20,72
+10295,Andrew Price,33,Male,Writer,"$90,406 ",No,Yes,Nintendo,Sports,Relaxation,3,154,7,51,61,63,73,71,27
+10296,Lily Sun,23,Female,Nurse,"$71,157 ",No,No,Xbox,Strategy,Relaxation,4,650,9,67,17,62,43,21,53
+10297,Aurora Rodriguez,26,Female,Student,"$21,105 ",No,Yes,Tablet,MOBA,Challenge,5,224,9,58,80,66,13,30,35
+10298,Veronica Lopez,32,Female,Other,"$150,251 ",Yes,Yes,Nintendo,FPS,Stress Relief,10,730,10,77,66,76,2,45,58
+10299,Nolan Howard,27,Female,Teacher,"$150,119 ",No,Yes,Tablet,FPS,Escapism,2,795,6,76,58,26,27,99,18
+10300,Ofelia Gonzalez,29,Female,Writer,"$74,418 ",No,No,Tablet,FPS,Competition,9,598,10,2,20,91,8,97,73
+10301,Sophie Bennet,19,Female,Student,"$104,448 ",No,Yes,PC,Racing,Entertainment,1,940,7,4,40,5,84,34,15
+10302,Stephanie Sweeney,19,Female,Writer,"$91,941 ",No,No,Tablet,MOBA,Stress Relief,2,592,8,61,36,13,46,27,10
+10303,Cameron Jenkins,26,Other,Writer,"$109,619 ",No,No,Tablet,Survival,Challenge,7,883,4,79,92,43,4,61,8
+10304,Cameron O'Conner,20,Other,Student,"$197,859 ",Yes,No,PC,Horror,Competition,7,861,10,18,50,35,33,77,74
+10305,Penelope Wand,27,Other,Developer,"$92,248 ",No,Yes,PC,Sports,Entertainment,5,497,4,56,90,20,30,72,90
+10306,Adrian Dixon,34,Other,Developer,"$41,075 ",Yes,No,PlayStation,RPG,Loneliness,9,541,4,83,52,2,9,6,16
+10307,Ellie Davis,29,Other,Engineer,"$56,500 ",Yes,No,PlayStation,MMORPG,Entertainment,3,397,8,50,93,18,60,1,44
+10308,Stephanie Lin,33,Other,Doctor,"$75,340 ",Yes,Yes,Xbox,MMORPG,Challenge,3,380,11,55,47,2,18,84,15
+10309,Hazel Osei,28,Female,Doctor,"$125,489 ",No,No,Tablet,MOBA,Habit,9,368,10,87,68,40,44,7,8
+10310,Alfredo Pinto,23,Male,Doctor,"$67,810 ",Yes,Yes,Xbox,RPG,Loneliness,2,767,5,10,17,70,46,84,60
+10311,Leo Bailey,30,Male,Writer,"$58,231 ",Yes,Yes,PlayStation,MOBA,Relaxation,1,422,4,3,79,21,47,98,90
+10312,Rosa Jenkins,21,Female,Lawyer,"$128,407 ",No,No,PC,Sports,Competition,8,955,4,53,91,25,96,17,69
+10313,Juan Nicolas,20,Male,Nurse,"$161,323 ",No,Yes,Tablet,FPS,Entertainment,2,885,5,64,58,65,93,56,75
+10314,Sonia Joaquin,29,Other,Designer,"$44,934 ",No,No,PC,Racing,Escapism,3,496,6,98,50,54,556,90,7
+10315,Asher Smith,26,Other,Doctor,"$77,202 ",Yes,Yes,Nintendo,Strategy,Entertainment,3,318,10,90,33,39,76,80,29
+10316,Sam Whelan,26,Other,Engineer,"$63,952 ",Yes,Yes,Xbox,FPS,Competition,10,494,8,2,3,93,61,52,10
+10317,Gabriella Howard,33,Female,Engineer,"$195,878 ",No,No,Tablet,Sports,Social Interaction,3,992,5,87,87,49,19,94,65
+10318,Leo Bailey,21,Other,Teacher,"$1,670 ",Yes,No,Nintendo,RPG,Relaxation,10,503,6,16,57,71,59,57,91
+10319,Chrissy Clancy,28,Female,Manager,"$82,411 ",Yes,No,Tablet,FPS,Stress Relief,8,851,9,18,6,47,4,85,17
+10320,Pual Fang,34,Other,Writer,"$24,672 ",No,Yes,PC,Strategy,Stress Relief,2,533,5,16,97,63,40,48,75
+10321,Gabriella Howard,34,Female,Lawyer,"$51,859 ",No,Yes,Nintendo,RPG,Challenge,2,735,5,78,15,88,73,4,52
+10323,Lincoln Collins,29,Male,Teacher,"$95,695 ",No,Yes,Cell Phone,RPG,Challenge,4,431,10,96,13,18,22,22,43
+10324,Sohpia Wang,21,Female,Designer,"$58,088 ",Yes,Yes,Nintendo,MOBA,Challenge,5,200,9,76,89,31,20,68,41
+10325,Victoria Lopez,25,Female,Lawyer,"$2,646 ",Yes,No,Cell Phone,Fighting,Habit,3,311,5,40,62,38,92,54,90
+10326,Chris O'Connel,31,Male,Engineer,"$56,880 ",No,Yes,Xbox,Sports,Boredom,6,588,4,88,57,6,33,2,73
+10327,Aaron Black,30,Male,Engineer,"$32,675 ",Yes,Yes,PC,Sports,Social Interaction,3,91,11,45,28,96,75,27,85
+10328,Riley Mahoney,18,Female,Manager,"$169,184 ",No,Yes,Tablet,MMORPG,Challenge,6,27,4,68,86,21,96,60,5
+10329,Abigail White,20,Female,Developer,"$14,975 ",Yes,No,Cell Phone,Strategy,Boredom,9,120,8,10,47,85,5,96,9
+10330,Santiago Hernandez,34,Male,Artist,"$73,183 ",No,Yes,PlayStation,FPS,Escapism,7,564,4,15,73,49,38,39,59
+10331,Adam Brown,28,Other,Developer,"$115,604 ",No,No,PC,Horror,Competition,5,15,6,65,99,77,71,68,7
+10332,Diego Sanchez,25,Male,Artist,"$7,348 ",No,No,PC,Sports,Stress Relief,6,990,6,93,42,89,48,44,86
+10333,Adrianne Cole,30,Female,Student,"$122,238 ",No,Yes,Nintendo,FPS,Challenge,7,27,10,46,37,16,9,78,79
+10334,Leonardo Brown,24,Male,Designer,"$13,750 ",Yes,No,PC,RPG,Competition,4,533,9,30,34,43,31,23,32
+10335,Alan Reed,19,Male,Doctor,"$130,759 ",Yes,No,Xbox,RPG,Challenge,4,620,5,58,9,65,91,27,6
+10336,Alice Clark,19,Female,Doctor,"$45,614 ",No,Yes,Cell Phone,RPG,Social Interaction,6,599,4,3,47,35,57,88,86
+10337,Andrew Edward,29,Male,Developer,"$6,178 ",Yes,Yes,Tablet,Racing,Competition,1,243,6,1,39,77,38,3,83
+10338,Angela Smith,26,Female,Teacher,"$161,768 ",No,No,Cell Phone,MMORPG,Relaxation,7,307,11,25,37,86,70,7,95
+10339,Antonio Gonzalez,22,Male,Doctor,"$149,228 ",Yes,Yes,Nintendo,Racing,Escapism,7,544,5,99,97,87,62,47,95
+10340,Juan Lee,30,Male,Other,"$25,535 ",No,Yes,Xbox,FPS,Entertainment,8,688,8,37,9,49,31,11,11
+10341,Drake Cooper,23,Male,Student,"$48,849 ",No,No,Xbox,Racing,Challenge,8,554,10,43,92,37,45,98,13
+10342,Brandi  Braxx,26,Female,Nurse,"$112,892 ",No,Yes,PC,Horror,Loneliness,1,142,11,39,82,54,10,16,70
+10343,Brian Cooper,19,Male,Developer,"$86,714 ",No,Yes,Tablet,Survival,Competition,1,865,6,18,37,1,51,41,81
+10344,Bruce Foster,33,Male,Writer,"$157,468 ",Yes,No,PlayStation,Horror,Challenge,4,855,8,26,80,10,49,43,35
+10345,Caroline Bell,21,Female,Student,"$121,227 ",Yes,No,Cell Phone,Strategy,Social Interaction,6,635,6,79,6,7,11,88,18
+10346,Caleb Turner,31,Male,Nurse,"$100,391 ",Yes,Yes,Tablet,Survival,Competition,11,739,7,64,46,97,92,23,90
+10347,Charlene Hughes,20,Female,Engineer,"$191,051 ",Yes,Yes,Tablet,MOBA,Entertainment,9,579,5,64,11,29,16,99,63
+10348,Steven Nin,28,Male,Artist,"$133,068 ",No,No,PC,MMORPG,Boredom,11,821,6,81,75,82,3,28,60
+10349,Cameron Perez,33,Male,Doctor,"$104,436 ",Yes,Yes,Tablet,RPG,Boredom,1,241,9,32,42,37,93,97,82
+10350,Cheryln Foster,31,Other,Other,"$147,599 ",No,Yes,PlayStation,RPG,Challenge,7,22,8,65,92,15,57,40,44
+10351,Chris Smith,34,Male,Artist,"$88,078 ",No,No,Xbox,Strategy,Relaxation,2,139,6,82,31,54,96,55,91
+10352,Cindy Bryant,18,Female,Manager,"$125,141 ",Yes,Yes,PC,FPS,Relaxation,6,517,10,63,60,22,67,5,64
+10353,Christina Rivera,27,Male,Doctor,"$151,578 ",No,No,PlayStation,Survival,Relaxation,10,382,7,26,29,74,22,66,87
+10354,Madia Lopez,28,Female,Teacher,"$92,704 ",Yes,No,Cell Phone,Racing,Competition,6,798,6,57,35,95,22,65,87
+10355,Christopher Peterson,26,Male,Other,"$34,093 ",No,Yes,Tablet,Survival,Challenge,9,609,7,5,62,78,59,77,81
+10356,Claire Johnson,32,Other,Student,"$31,591 ",Yes,Yes,Nintendo,MMORPG,Escapism,1,838,6,46,31,44,99,22,27
+10357,Daniel Simmons,22,Male,Engineer,"$99,009 ",Yes,No,Xbox,Strategy,Relaxation,9,612,5,22,39,25,61,18,36
+10358,Cindy Myers,22,Female,Student,"$148,520 ",Yes,No,Xbox,MOBA,Stress Relief,6,856,10,14,11,49,54,41,36
+10359,Donald Griffin,25,Male,Manager,"$74,807 ",No,Yes,Xbox,RPG,Relaxation,10,509,5,66,87,64,47,51,77
+10360,Diana Prince,32,Female,Other,"$192,077 ",Yes,No,Xbox,FPS,Challenge,5,91,5,45,69,96,97,39,52
+10361,Dylan Rivera,25,Male,Nurse,"$25,685 ",No,No,Xbox,Racing,Boredom,6,559,10,52,26,9,10,46,61
+10362,Isabella Yadira,20,Other,Artist,"$140,156 ",No,Yes,Cell Phone,Strategy,Relaxation,9,734,5,27,9,23,33,98,81
+10363,Camila Zulema,25,Female,Doctor,"$199,727 ",Yes,No,Nintendo,Fighting,Habit,6,897,7,94,39,8,24,18,6
+10364,Valerie Veronica,25,Other,Teacher,"$54,527 ",No,No,PlayStation,Fighting,Social Interaction,8,512,10,20,82,33,11,41,24
+10365,Marianna Ruiz,23,Other,Artist,"$9,981 ",Yes,Yes,Cell Phone,MMORPG,Challenge,1,603,9,2,46,85,95,8,81
+10366,Ximena Lynch,32,Other,Student,"$22,308 ",Yes,No,PC,Survival,Boredom,9,472,8,57,20,84,95,80,25
+10367,Victoria Casey,18,Other,Nurse,"$72,868 ",No,No,PC,RPG,Relaxation,6,230,9,81,33,73,30,55,52
+10368,Evelyn Quinn,18,Female,Designer,"$168,761 ",No,Yes,PlayStation,FPS,Challenge,6,560,5,4,31,81,57,28,36
+10369,Nathan Fuller,23,Male,Other,"$196,293 ",No,Yes,Xbox,MMORPG,Relaxation,6,870,5,18,20,29,12,15,29
+10370,Brian Brown,26,Male,Lawyer,"$66,213 ",No,Yes,Tablet,Racing,Relaxation,10,378,11,35,9,26,86,63,99
+10371,Joel Lewis,31,Male,Writer,"$191,526 ",No,Yes,PC,Racing,Loneliness,8,167,11,90,9,65,81,68,14
+10372,Darren Lara,33,Male,Nurse,"$125,890 ",Yes,Yes,Cell Phone,MMORPG,Challenge,9,792,5,98,82,85,64,83,67
+10373,Stephanie Nguyen,18,Female,Teacher,$375 ,No,No,Cell Phone,Racing,Challenge,8,708,5,76,36,14,29,82,42
+10374,Christopher Park,33,Male,Nurse,"$166,448 ",Yes,No,Nintendo,Fighting,Boredom,11,983,10,61,78,74,65,49,92
+10375,Daniel Cox,19,Male,Doctor,"$91,380 ",Yes,No,PlayStation,Racing,Entertainment,4,143,11,52,53,39,44,88,98
+10376,Sherri Gomez,30,Female,Developer,"$184,729 ",No,No,Nintendo,Fighting,Entertainment,5,406,9,6,38,64,5,43,94
+10377,Amanda Davis,22,Female,Student,"$198,559 ",Yes,No,PlayStation,RPG,Competition,1,409,11,81,22,16,6,20,48
+10378,Dylan Hamilton,21,Other,Manager,"$61,616 ",Yes,Yes,Tablet,Strategy,Escapism,4,283,7,24,27,40,66,11,28
+10379,Victor Willis,29,Male,Developer,"$27,933 ",No,No,Xbox,Horror,Entertainment,3,961,10,81,42,39,10,32,62
+10380,Randy Delgado,28,Other,Lawyer,"$39,170 ",Yes,No,Xbox,MMORPG,Relaxation,7,18,8,46,59,2,8,74,71
+10381,David Thomas,27,Male,Designer,"$116,498 ",No,Yes,PlayStation,RPG,Relaxation,7,234,7,87,82,5,52,66,78
+10382,Ronald Garcia,25,Male,Designer,"$118,642 ",Yes,No,Nintendo,MMORPG,Entertainment,7,288,8,61,48,26,79,83,63
+10383,Steven Gonzalez,28,Male,Manager,"$126,228 ",Yes,No,PlayStation,Racing,Stress Relief,11,965,8,76,50,50,98,33,59
+10384,Marcia Moreno,31,Other,Other,"$40,025 ",Yes,Yes,Tablet,Racing,Challenge,4,69,11,70,87,40,4,63,38
+10385,Lori Zuniga,20,Female,Engineer,"$198,524 ",No,No,PC,Strategy,Competition,7,96,9,43,56,95,70,38,66
+10386,Aaron Strickland,27,Other,Nurse,"$121,776 ",Yes,No,PC,Horror,Social Interaction,6,540,10,16,4,62,4,39,41
+10387,Jennifer Mccall,24,Female,Artist,"$144,286 ",Yes,No,PC,Survival,Habit,8,504,6,52,26,52,33,94,89
+10388,Ryan Rhodes,33,Male,Lawyer,"$5,935 ",Yes,No,Cell Phone,FPS,Boredom,4,200,7,7,45,80,15,80,52
+10389,Brian Wood,32,Male,Lawyer,"$150,482 ",No,No,PC,Racing,Habit,2,436,4,72,12,42,95,99,99
+10390,Lauren Crosby,34,Female,Student,"$90,682 ",No,No,PC,FPS,Escapism,8,905,9,31,55,63,33,10,32
+10391,David Blake,28,Other,Other,"$172,392 ",No,No,Tablet,Horror,Entertainment,11,236,8,6,38,10,77,54,59
+10392,Mario Cooper,32,Male,Other,"$199,428 ",Yes,Yes,PlayStation,Fighting,Social Interaction,1,118,11,73,56,61,32,3,69
+10393,Kevin Rogers,34,Male,Engineer,"$111,514 ",Yes,No,Nintendo,RPG,Competition,11,781,5,77,63,67,73,93,13
+10394,Frances Smith,27,Male,Writer,"$107,394 ",Yes,No,Nintendo,Horror,Stress Relief,7,912,5,12,42,19,40,87,16
+10395,Erik Collins,28,Other,Other,"$166,509 ",No,Yes,PlayStation,Fighting,Relaxation,9,348,7,8,84,3,52,33,82
+10396,Lauren Walker,34,Other,Artist,"$19,994 ",No,Yes,Tablet,Racing,Habit,3,248,5,54,51,8,34,50,65
+10397,Emily Wilkerson,28,Other,Artist,"$143,561 ",No,No,Xbox,Strategy,Challenge,6,548,7,42,90,20,29,9,53
+10398,Arthur Newman,19,Male,Artist,"$107,071 ",Yes,No,Tablet,Racing,Escapism,1,69,11,73,60,40,35,53,9
+10399,Sherri Henry,25,Other,Developer,"$196,246 ",Yes,Yes,PC,Horror,Competition,6,674,4,17,58,38,86,66,13
+10400,Jonathan Mercado,20,Male,Manager,"$139,726 ",No,No,Cell Phone,Fighting,Relaxation,10,997,11,10,33,32,91,7,36
+10401,Alexis Stevenson,32,Female,Doctor,"$61,001 ",Yes,Yes,Tablet,Survival,Relaxation,5,491,8,5,77,88,26,41,64
+10403,Nathan Garcia,34,Male,Writer,"$92,159 ",Yes,No,Tablet,RPG,Social Interaction,8,932,7,7,64,80,96,30,65
+10404,David Roberts,22,Male,Doctor,"$10,265 ",Yes,Yes,PlayStation,RPG,Escapism,9,971,5,92,12,37,97,87,64
+10405,Anna Brooks,26,Female,Doctor,"$142,688 ",Yes,Yes,Tablet,Horror,Entertainment,3,500,5,16,27,81,20,14,60
+10406,Richard Lopez,19,Male,Designer,"$177,739 ",No,Yes,PlayStation,Horror,Stress Relief,10,515,11,93,26,72,98,46,66
+10407,Holly Ingram,20,Female,Doctor,"$13,809 ",No,No,Xbox,FPS,Social Interaction,4,318,7,31,93,18,89,21,49
+10408,Jim Chavez,19,Male,Lawyer,"$116,623 ",No,No,Nintendo,Strategy,Entertainment,4,645,4,15,76,49,11,34,95
+10409,Michele Hancock,26,Female,Doctor,"$108,647 ",Yes,No,PlayStation,MMORPG,Stress Relief,6,156,7,14,76,29,24,44,48
+10410,Marcus Moore,22,Male,Artist,"$169,477 ",Yes,No,Nintendo,MMORPG,Escapism,9,313,4,61,25,41,37,57,47
+10411,Amber Thompson,23,Female,Doctor,"$124,682 ",Yes,Yes,PC,MMORPG,Entertainment,6,317,9,61,50,81,7,16,29
+10412,Virginia Peterson,23,Female,Other,"$130,012 ",Yes,Yes,Cell Phone,MOBA,Challenge,10,646,7,35,77,18,76,87,21
+10413,Anita Lewis,30,Other,Designer,"$33,301 ",No,Yes,Nintendo,Strategy,Entertainment,2,766,11,18,13,25,2,33,70
+10415,Jessica Craig,23,Female,Manager,"$174,775 ",No,No,PlayStation,RPG,Social Interaction,3,73,11,62,98,98,87,31,33
+10416,Laura Livingston,29,Female,Lawyer,"$29,445 ",Yes,No,Cell Phone,RPG,Entertainment,1,514,10,95,76,94,9,25,55
+10417,Katherine Walters,27,Other,Developer,"$153,607 ",No,No,PlayStation,MOBA,Relaxation,5,248,5,25,83,33,24,5,95
+10418,Emily Robinson,31,Female,Writer,"$178,562 ",Yes,No,PlayStation,Strategy,Entertainment,7,309,10,49,65,7,44,35,60
+10419,Angela Shaffer,32,Female,Designer,"$37,327 ",No,No,PC,Horror,Stress Relief,10,625,5,67,87,53,90,92,19
+10420,John Moore,34,Other,Manager,"$129,380 ",No,No,Cell Phone,Horror,Habit,5,440,9,30,28,36,4,49,14
+10421,Stephanie Miller,26,Female,Designer,"$74,050 ",Yes,No,Nintendo,Strategy,Habit,9,582,10,53,57,89,39,55,82
+10422,Michael Edwards,25,Other,Designer,"$82,297 ",Yes,Yes,PC,MOBA,Habit,4,824,10,86,67,61,7,45,43
+10423,Nathan Hansen,18,Male,Doctor,"$135,234 ",No,No,Cell Phone,Fighting,Competition,2,219,8,73,59,29,28,1,12
+10424,Kevin Henry,33,Other,Nurse,"$124,814 ",Yes,No,PlayStation,FPS,Escapism,5,844,6,53,30,56,13,84,19
+10425,Benjamin Cook,27,Male,Teacher,"$171,315 ",Yes,Yes,Tablet,FPS,Social Interaction,9,704,5,73,90,25,46,4,21
+10426,Jacqueline Calderon,34,Female,Other,"$3,589 ",No,Yes,Xbox,Racing,Relaxation,7,374,4,48,49,86,40,87,96
+10427,Angela Mills,24,Other,Doctor,"$19,962 ",No,Yes,Nintendo,Racing,Escapism,4,106,4,56,59,45,27,45,34
+10428,George Hansen,18,Male,Lawyer,"$71,345 ",Yes,Yes,PC,Sports,Competition,8,470,9,47,30,45,76,35,1
+10429,Sean Griffin,29,Male,Teacher,"$41,950 ",No,No,Nintendo,RPG,Habit,6,68,7,74,68,81,21,53,37
+10430,Larry Kidd,21,Male,Nurse,"$159,029 ",Yes,Yes,Cell Phone,MOBA,Challenge,3,247,5,62,59,2,42,86,62
+10431,John Ruiz,30,Male,Manager,"$168,143 ",Yes,Yes,Xbox,MOBA,Social Interaction,1,940,5,86,19,96,57,24,59
+10432,Lisa Cole,21,Female,Writer,"$156,017 ",No,Yes,Cell Phone,Survival,Challenge,11,916,6,94,52,67,56,62,30
+10433,John Perry,21,Male,Developer,"$1,350 ",No,No,Cell Phone,Sports,Relaxation,8,619,5,17,76,18,31,86,70
+10434,Linda Cox,26,Other,Designer,"$53,692 ",No,Yes,Xbox,Fighting,Loneliness,10,973,9,95,23,49,73,54,16
+10435,Alexander Murphy,19,Other,Nurse,"$114,453 ",Yes,No,PC,RPG,Social Interaction,4,195,8,32,50,27,32,28,40
+10436,Leslie Taylor,24,Other,Other,"$183,207 ",No,No,PlayStation,MMORPG,Challenge,8,353,4,57,93,80,87,41,43
+10437,Michael Barry,33,Male,Manager,"$44,868 ",Yes,Yes,Xbox,Horror,Entertainment,11,353,11,65,81,7,14,2,96
+10438,Devin Shepherd,27,Male,Designer,"$180,188 ",Yes,No,PlayStation,Fighting,Social Interaction,11,784,6,60,82,77,61,29,35
+10439,Taylor Davis,23,Male,Manager,"$172,854 ",Yes,No,Cell Phone,Survival,Challenge,2,679,6,9,46,29,55,70,11
+10440,John Woods,24,Male,Designer,"$154,333 ",No,Yes,PC,Fighting,Stress Relief,11,225,11,48,19,43,11,40,65
+10441,Nathaniel Stevenson,27,Other,Student,"$51,478 ",Yes,Yes,PlayStation,Survival,Stress Relief,7,630,8,30,1,22,24,14,68
+10442,Wesley Hart,29,Male,Doctor,"$58,518 ",No,Yes,PC,Strategy,Escapism,5,632,4,84,41,43,85,39,52
+10443,Kim Johnson,32,Other,Engineer,"$189,679 ",No,No,PlayStation,Survival,Challenge,4,559,10,2,39,38,15,97,63
+10444,Kristin Wood,19,Other,Doctor,"$59,031 ",Yes,No,Tablet,Fighting,Habit,1,179,5,82,1,46,52,3,64
+10445,Anita Cole,29,Female,Lawyer,"$177,459 ",Yes,No,PC,Survival,Competition,3,817,4,94,69,13,67,62,3
+10446,Alex Hester,33,Male,Writer,"$49,812 ",No,No,Xbox,Fighting,Stress Relief,11,142,11,7,31,85,71,53,18
+10447,Melissa Pope,27,Other,Developer,"$78,596 ",Yes,Yes,Nintendo,MOBA,Habit,8,69,8,21,4,47,95,38,78
+10448,Christie Clark,21,Other,Engineer,"$165,051 ",No,No,Nintendo,MOBA,Challenge,2,595,7,44,48,41,61,78,13
+10449,Todd Robbins,34,Male,Writer,"$10,789 ",No,No,PC,FPS,Relaxation,8,470,10,57,51,24,89,60,11
+10450,George Calderon,32,Male,Nurse,"$197,850 ",Yes,Yes,Nintendo,Survival,Social Interaction,3,475,4,14,94,2,66,11,70
+10451,Beth Mckinney,22,Female,Doctor,"$8,535 ",Yes,Yes,PC,FPS,Escapism,2,600,10,13,21,14,36,94,31
+10452,Justin Knox,28,Male,Artist,"$7,331 ",Yes,Yes,Nintendo,Racing,Competition,8,387,10,7,15,3,99,40,43
+10453,Joshua Williams,21,Male,Lawyer,"$138,184 ",Yes,Yes,Nintendo,Racing,Challenge,8,176,8,15,14,20,28,77,5
+10454,Nicholas James,23,Female,Doctor,"$115,427 ",Yes,No,Xbox,Racing,Escapism,1,396,9,26,53,46,34,25,28
+10455,Kathleen King,30,Other,Doctor,"$139,121 ",No,Yes,Nintendo,MOBA,Challenge,6,184,10,97,62,90,73,72,55
+10456,Renee Hensley,31,Male,Engineer,"$40,660 ",Yes,Yes,Xbox,MMORPG,Habit,10,701,9,33,66,74,21,27,2
+10457,Sharon Richardson,32,Male,Artist,"$119,866 ",Yes,No,Cell Phone,MOBA,Competition,2,480,8,99,92,91,63,84,47
+10458,Joseph Mosley,27,Male,Engineer,"$90,592 ",No,Yes,Tablet,MOBA,Competition,2,831,5,29,83,7,50,20,87
+10459,Stephanie Jones,33,Other,Artist,"$101,384 ",No,Yes,Xbox,MOBA,Entertainment,10,813,8,64,99,54,45,3,76
+10460,Madeline Campbell,24,Male,Other,"$151,934 ",Yes,No,Xbox,Racing,Relaxation,1,249,10,64,17,92,93,80,16
+10461,Sharon Spencer,27,Female,Artist,"$184,991 ",No,No,Nintendo,Survival,Boredom,2,283,4,87,71,74,58,69,26
+10462,Christopher Davies,18,Male,Designer,"$142,553 ",Yes,No,PC,Sports,Loneliness,11,933,4,24,70,17,45,25,75
+10463,Ryan Taylor,28,Other,Developer,"$188,004 ",Yes,Yes,Nintendo,RPG,Loneliness,9,517,6,36,59,74,82,16,1
+10464,Alexis George,18,Female,Teacher,"$47,890 ",Yes,No,Tablet,MOBA,Escapism,7,831,5,99,4,72,16,51,24
+10465,Donald Frazier,21,Male,Artist,"$9,001 ",Yes,Yes,Cell Phone,MOBA,Social Interaction,5,359,7,78,94,52,85,22,48
+10466,Annette Jones,19,Female,Developer,"$75,818 ",No,No,Nintendo,Survival,Loneliness,1,754,10,56,17,71,89,15,61
+10467,Traci Wood,24,Female,Lawyer,"$182,937 ",Yes,Yes,Cell Phone,Racing,Boredom,8,837,5,93,60,8,50,82,89
+10468,Charles Wong,28,Female,Other,"$163,544 ",Yes,No,Nintendo,MOBA,Habit,7,84,7,94,61,9,12,77,49
+10469,Natasha Waller,32,Female,Developer,"$143,152 ",Yes,No,Tablet,Survival,Competition,8,784,11,8,70,14,31,4,27
+10470,Carol Reed,19,Other,Engineer,"$152,754 ",Yes,No,Tablet,Strategy,Competition,9,325,4,65,16,89,27,91,64
+10471,Zachary Maynard,21,Male,Manager,"$116,235 ",Yes,Yes,PlayStation,MMORPG,Relaxation,9,706,8,15,97,41,76,66,82
+10472,Derrick Thompson,23,Male,Other,"$166,621 ",Yes,Yes,Cell Phone,Strategy,Social Interaction,7,700,4,85,28,28,30,69,10
+10473,Sergio Robinson,27,Male,Manager,"$137,072 ",Yes,No,Xbox,Sports,Challenge,4,92,5,74,25,24,89,86,97
+10474,Beth Mercado,19,Female,Developer,"$59,031 ",Yes,Yes,PlayStation,Survival,Stress Relief,2,417,7,77,28,35,54,43,47
+10475,Maurice Carter,21,Male,Nurse,"$133,051 ",No,No,Xbox,RPG,Entertainment,9,30,6,17,10,73,81,6,75
+10476,Kevin Bishop,20,Male,Nurse,"$125,834 ",Yes,No,Cell Phone,RPG,Escapism,3,992,6,90,18,63,75,84,79
+10477,Patricia Miles,33,Female,Student,"$53,208 ",No,Yes,Tablet,MMORPG,Habit,2,593,11,82,76,10,59,13,99
+10478,Rachel Leblanc,19,Female,Lawyer,"$138,340 ",Yes,No,PlayStation,Sports,Boredom,2,313,5,20,55,27,58,25,46
+10479,Jillian Harrison,26,Male,Doctor,"$195,408 ",Yes,Yes,PlayStation,Survival,Challenge,6,223,9,66,82,45,5,80,55
+10480,Justin Boyd,24,Other,Lawyer,"$158,213 ",No,No,Xbox,FPS,Boredom,11,704,4,52,65,24,89,72,46
+10481,Richard Espinoza,27,Male,Student,"$136,884 ",Yes,No,PlayStation,Sports,Boredom,3,735,5,92,56,70,49,7,65
+10482,Anthony Wilson,33,Male,Manager,"$11,592 ",No,Yes,Cell Phone,MMORPG,Competition,10,946,8,40,73,85,47,91,15
+10483,Rebecca Pace,33,Female,Developer,"$85,399 ",No,No,PC,Sports,Habit,11,366,4,37,40,80,96,83,22
+10484,Christine Sanchez,29,Other,Designer,"$47,619 ",No,No,PC,Fighting,Loneliness,1,975,5,24,35,96,10,39,44
+10485,Cassandra Arnold,32,Female,Teacher,"$14,853 ",Yes,Yes,PC,Horror,Challenge,1,751,7,46,99,20,72,2,46
+10486,Jessica Jones,31,Female,Doctor,"$155,766 ",No,No,Cell Phone,MOBA,Habit,3,590,11,25,52,68,40,60,69
+10487,Darrell Thompson,24,Male,Nurse,"$99,036 ",Yes,No,PlayStation,Racing,Challenge,7,92,6,71,43,81,73,26,9
+10488,Caitlyn Simmons,32,Female,Lawyer,"$93,918 ",Yes,Yes,Tablet,RPG,Escapism,6,215,5,78,7,72,15,23,98
+10489,Michael Benjamin,29,Other,Engineer,"$197,677 ",Yes,Yes,Nintendo,MOBA,Boredom,8,452,5,85,50,15,54,6,11
+10490,Bianca Becker,34,Female,Other,"$151,684 ",No,No,Xbox,Fighting,Escapism,2,290,9,19,85,7,99,61,28
+10491,Brenda Bradley,18,Female,Designer,"$128,130 ",No,Yes,PC,Racing,Stress Relief,11,835,11,98,54,5,76,7,35
+10492,Patrick Davis,21,Male,Other,"$100,157 ",Yes,Yes,Nintendo,Survival,Habit,8,984,11,3,5,17,45,97,81
+10493,Nathaniel Hart,22,Other,Designer,"$60,003 ",No,Yes,PC,RPG,Entertainment,4,730,4,1,84,42,94,39,16
+10494,Joshua Lee,33,Male,Developer,"$93,495 ",Yes,Yes,PlayStation,Survival,Social Interaction,5,429,8,50,13,61,20,95,96
+10495,Eric Herring,19,Male,Writer,"$98,107 ",No,No,PlayStation,FPS,Social Interaction,5,298,9,50,90,41,21,69,12
+10496,Adrian Hoffman,20,Male,Developer,"$44,756 ",No,No,Cell Phone,Racing,Habit,5,716,9,98,88,35,17,13,17
+10497,Thomas Anthony,31,Other,Engineer,"$133,172 ",Yes,Yes,Nintendo,Strategy,Boredom,10,905,9,61,71,68,82,43,63
+10498,Anthony Dalton,31,Other,Writer,"$11,250 ",No,No,PC,Fighting,Stress Relief,3,294,4,64,17,34,80,26,76
+10499,Cindy Malone,32,Female,Nurse,"$6,222 ",No,Yes,Tablet,MOBA,Loneliness,10,831,6,15,67,94,65,27,13
+10500,James Hall,18,Male,Manager,"$195,220 ",Yes,No,Nintendo,Fighting,Relaxation,9,978,7,61,87,27,6,31,8
+10501,Mark Shepherd,23,Male,Designer,"$64,309 ",No,No,Nintendo,Sports,Escapism,8,623,7,52,8,20,51,62,1
+10502,Holly Adams,28,Female,Manager,"$18,500 ",Yes,Yes,PC,Horror,Loneliness,7,659,4,62,5,97,24,33,30
+10503,Brian Abbott,22,Male,Artist,"$100,824 ",No,Yes,Nintendo,Strategy,Entertainment,11,788,11,84,47,65,29,60,94
+10504,Brendan Diaz,28,Other,Teacher,"$64,343 ",Yes,Yes,Xbox,Survival,Social Interaction,6,384,4,32,80,73,81,26,98
+10505,Jesse Harris,28,Female,Student,"$15,431 ",No,Yes,Cell Phone,Fighting,Boredom,1,220,4,40,15,25,88,56,35
+10506,Lisa Davis,34,Female,Teacher,"$193,594 ",Yes,No,Xbox,Strategy,Escapism,11,433,11,16,12,40,21,51,84
+10507,Jessica Griffin,33,Female,Manager,"$55,804 ",No,Yes,Xbox,Racing,Challenge,10,496,7,66,82,50,96,43,35
+10508,Molly Lewis,32,Other,Nurse,"$150,060 ",Yes,Yes,PC,MOBA,Relaxation,11,446,11,31,41,61,39,29,92
+10509,Amy Spears,31,Other,Developer,"$134,522 ",Yes,No,PlayStation,RPG,Relaxation,6,195,5,67,24,22,68,89,13
+10511,Eric Willis,26,Male,Writer,"$5,765 ",No,No,Xbox,Fighting,Escapism,8,743,9,4,73,41,10,45,58
+10512,Joel Herrera,31,Male,Writer,"$109,120 ",No,No,Nintendo,Racing,Challenge,8,102,9,61,38,40,54,73,97
+10513,Spencer Sanchez,26,Male,Writer,"$59,450 ",No,No,Tablet,Racing,Entertainment,7,968,4,20,78,32,85,65,56
+10514,David Joseph,28,Male,Doctor,"$29,755 ",Yes,No,Xbox,Strategy,Boredom,3,726,4,61,65,38,26,54,44
+10515,Bruce Stewart,19,Other,Student,"$82,126 ",Yes,Yes,Cell Phone,Strategy,Competition,1,58,4,66,44,90,41,43,95
+10516,Kristie House,31,Female,Manager,"$194,925 ",Yes,Yes,PlayStation,Fighting,Habit,3,251,11,35,70,23,92,54,58
+10517,Jason Acosta,20,Male,Manager,"$86,914 ",No,No,Tablet,Strategy,Relaxation,9,907,7,21,2,51,12,50,49
+10518,Chad Garrison,33,Male,Lawyer,"$199,579 ",Yes,Yes,Nintendo,Sports,Boredom,11,200,4,63,83,59,76,80,14
+10519,Breanna Gonzales,19,Female,Doctor,"$125,280 ",No,Yes,Nintendo,RPG,Relaxation,7,655,10,67,21,62,67,63,10
+10520,John Clark,24,Male,Nurse,"$91,187 ",Yes,Yes,Nintendo,FPS,Stress Relief,4,494,9,86,26,62,80,50,64
+10521,Brianna Ward,20,Female,Writer,"$63,117 ",Yes,No,PlayStation,RPG,Relaxation,7,605,10,98,85,63,41,95,9
+10523,Shelley Gillespie,22,Other,Nurse,"$26,761 ",Yes,No,PC,MMORPG,Boredom,4,785,10,12,78,37,93,49,0
+10524,James Wright,31,Male,Engineer,"$162,430 ",No,No,PlayStation,MOBA,Social Interaction,3,666,7,43,96,22,87,74,19
+10525,Tyler Brewer,33,Male,Lawyer,"$39,128 ",No,Yes,PC,Sports,Loneliness,11,782,5,85,44,88,36,97,79
+10526,Richard Smith,23,Other,Designer,"$61,745 ",Yes,No,Cell Phone,Racing,Relaxation,2,236,6,58,29,45,79,43,35
+10527,Kathleen Nicholson,19,Female,Teacher,"$76,209 ",Yes,No,Cell Phone,Racing,Entertainment,3,541,7,86,78,4,92,49,90
+10528,Linda Cunningham,32,Female,Designer,"$122,635 ",Yes,Yes,Nintendo,Fighting,Habit,6,960,8,61,30,66,58,18,25
+10529,Michelle Sullivan,26,Female,Student,"$28,701 ",No,No,Cell Phone,Sports,Escapism,7,315,8,21,78,59,65,26,79
+10530,Michael Clark,21,Other,Artist,"$28,109 ",Yes,Yes,Xbox,Sports,Loneliness,6,584,7,65,22,41,68,49,77
+10531,Melissa Pollard,32,Female,Lawyer,"$146,759 ",No,No,Cell Phone,Racing,Loneliness,6,631,4,69,24,65,29,88,63
+10532,Cassandra Thompson,20,Female,Student,"$61,156 ",Yes,Yes,Nintendo,FPS,Competition,6,724,8,30,63,30,83,72,86
+10533,James Olson,26,Male,Lawyer,"$94,195 ",No,Yes,Xbox,Sports,Loneliness,4,460,5,18,16,37,61,82,15
+10534,Elizabeth Bates,19,Female,Lawyer,"$16,207 ",Yes,No,PlayStation,Racing,Entertainment,8,311,11,33,69,99,96,74,64
+10535,Amy Whitaker,22,Female,Other,"$197,171 ",Yes,Yes,Cell Phone,RPG,Social Interaction,4,315,11,6,39,36,96,7,94
+10536,Eileen Anderson,30,Female,Engineer,"$180,354 ",Yes,No,PC,Fighting,Social Interaction,4,565,6,85,20,85,49,14,52
+10537,Anthony Stewart,32,Other,Manager,"$120,327 ",No,Yes,Cell Phone,Sports,Social Interaction,2,963,11,20,85,85,61,15,12
+10538,Ashley Gilbert,33,Female,Doctor,"$52,901 ",No,Yes,PC,MOBA,Stress Relief,1,842,10,61,60,84,92,14,29
+10539,Timothy Walker,32,Other,Artist,"$7,695 ",No,Yes,Tablet,Sports,Escapism,2,563,7,81,45,38,99,69,13
+10540,Mary Gould,21,Other,Student,"$124,700 ",No,Yes,Nintendo,MOBA,Boredom,1,231,7,3,10,53,96,84,39
+10541,Jennifer Mcguire,18,Female,Developer,"$22,065 ",Yes,Yes,Xbox,MOBA,Social Interaction,4,83,8,40,95,56,69,2,75
+10542,Cindy James,30,Female,Other,"$127,095 ",Yes,Yes,PlayStation,MMORPG,Competition,1,181,11,4,78,45,20,3,76
+10543,Francis Martinez,23,Other,Artist,"$87,685 ",No,Yes,PC,MMORPG,Stress Relief,5,420,5,56,93,5,35,24,57
+10544,Ashley Lewis,27,Female,Student,"$4,203 ",Yes,Yes,Nintendo,FPS,Stress Relief,11,68,11,2,31,42,9,2,1
+10545,Dustin White,24,Male,Lawyer,"$93,866 ",No,Yes,Cell Phone,RPG,Stress Relief,11,60,9,59,19,4,78,33,97
+10546,Larry Rivera,31,Male,Engineer,"$109,870 ",No,Yes,Nintendo,MOBA,Entertainment,6,484,6,48,59,74,75,93,98
+10547,Laura Reyes,30,Female,Developer,"$155,546 ",No,Yes,Nintendo,Racing,Escapism,6,746,10,74,52,54,69,13,11
+10548,Tammy Newton,23,Other,Teacher,"$30,138 ",Yes,Yes,PlayStation,Strategy,Relaxation,4,634,6,24,39,89,86,18,30
+10549,Jonathan Bryant,20,Other,Student,"$90,181 ",Yes,Yes,PC,FPS,Challenge,7,853,8,25,3,89,16,92,87
+10550,Dylan George,31,Other,Writer,"$165,028 ",Yes,No,Nintendo,Strategy,Escapism,6,77,9,26,97,54,56,91,65
+10551,Joseph Hubbard,23,Other,Artist,"$131,974 ",Yes,No,Cell Phone,MMORPG,Loneliness,1,277,8,9,54,29,90,99,19
+10552,Clayton Thomas,20,Other,Manager,"$61,925 ",No,Yes,Nintendo,Strategy,Habit,5,946,4,89,41,86,62,59,62
+10553,Brandon King,21,Male,Artist,"$132,972 ",No,No,Tablet,MOBA,Escapism,1,944,10,44,41,7,1,8,51
+10554,Andrew Le,24,Male,Nurse,"$141,046 ",Yes,Yes,Tablet,MOBA,Boredom,11,794,5,78,40,14,90,73,86
+10555,Lisa Banks,30,Female,Doctor,"$117,709 ",No,No,PC,Horror,Social Interaction,6,76,8,11,9,44,92,36,27
+10556,Jason Buck,31,Other,Developer,"$153,299 ",No,Yes,Tablet,Sports,Relaxation,3,360,9,66,93,22,61,33,89
+10557,Anthony Cantrell,34,Other,Teacher,"$41,674 ",No,Yes,PC,FPS,Boredom,2,799,7,32,99,76,77,30,98
+10558,Nathan Griffith,21,Male,Artist,"$196,468 ",Yes,Yes,Tablet,Fighting,Challenge,3,751,8,22,116,92,88,96,57
+10559,Ian Johnson,24,Other,Developer,"$55,330 ",Yes,No,Nintendo,Strategy,Habit,2,180,8,76,18,46,2,82,43
+10560,Mark Burton,33,Male,Teacher,"$41,747 ",Yes,Yes,PlayStation,Strategy,Challenge,4,552,6,56,79,47,55,94,15
+10561,Nicholas Thomas,27,Other,Nurse,"$139,233 ",No,Yes,PC,Racing,Relaxation,11,689,9,74,53,12,29,41,23
+10562,Nicole Johnson,21,Other,Designer,"$88,682 ",No,Yes,PC,Sports,Loneliness,3,203,7,23,12,56,38,52,27
+10563,David Wright,33,Other,Teacher,"$17,465 ",No,Yes,PlayStation,Racing,Relaxation,10,517,4,19,36,70,90,34,12
+10564,Amy Cook,23,Male,Artist,"$106,433 ",No,No,Cell Phone,FPS,Entertainment,5,400,5,86,49,13,80,5,59
+10565,Alyssa Sullivan,24,Female,Writer,"$2,661 ",Yes,Yes,PC,Sports,Habit,7,24,5,53,20,59,63,49,58
+10566,Samuel Clay,20,Male,Writer,"$27,575 ",No,Yes,Tablet,RPG,Social Interaction,1,425,8,61,94,33,13,94,65
+10567,Leah Richardson,24,Female,Engineer,"$75,875 ",No,No,Tablet,RPG,Entertainment,1,102,7,80,34,87,97,8,5
+10568,Casey Brown,22,Other,Developer,"$50,116 ",No,No,PlayStation,MOBA,Habit,5,166,5,88,57,64,43,23,33
+10569,Shannon Rose,30,Other,Lawyer,"$131,985 ",No,Yes,Nintendo,FPS,Stress Relief,4,614,9,84,36,15,10,15,73
+10570,Karen Jones,30,Female,Engineer,$45 ,No,Yes,PlayStation,Sports,Escapism,4,965,9,2,91,80,15,51,55
+10571,Amy Reynolds,26,Female,Writer,"$16,073 ",No,No,Cell Phone,RPG,Challenge,7,763,6,95,26,66,44,77,75
+10572,John Smith,29,Other,Other,"$43,959 ",Yes,Yes,Tablet,RPG,Loneliness,8,679,4,41,75,89,54,47,19
+10573,Julie Butler,22,Female,Engineer,"$132,880 ",No,No,Tablet,MMORPG,Habit,5,574,7,64,18,94,54,84,84
+10574,David Dixon,29,Male,Developer,"$15,464 ",No,No,Tablet,Strategy,Stress Relief,10,714,4,60,71,16,51,78,17
+10575,Matthew Moran,24,Other,Writer,"$175,266 ",Yes,No,PC,Horror,Social Interaction,7,47,7,61,50,79,99,20,53
+10576,Richard Turner,20,Male,Teacher,"$178,228 ",Yes,Yes,Xbox,FPS,Boredom,8,712,7,56,34,50,55,30,45
+10577,Brenda Miranda,27,Other,Student,"$161,947 ",No,Yes,Xbox,Horror,Competition,1,303,5,57,18,49,29,32,27
+10578,Rebecca Long,29,Female,Artist,"$159,745 ",No,No,PC,Racing,Entertainment,6,291,6,81,65,65,11,49,3
+10579,Ernest Dixon,31,Male,Designer,"$172,085 ",No,No,PC,Racing,Social Interaction,3,436,5,96,21,6,61,26,7
+10580,Larry Whitehead,27,Male,Doctor,"$92,572 ",Yes,No,Cell Phone,MOBA,Competition,3,89,7,43,67,95,54,97,6
+10581,Amber Mccall,20,Female,Writer,"$187,268 ",Yes,No,Cell Phone,Strategy,Loneliness,10,461,4,54,63,4,93,94,80
+10582,Lisa Dunlap,29,Female,Writer,"$17,795 ",Yes,Yes,Xbox,FPS,Social Interaction,10,807,11,29,18,77,4,81,64
+10583,Jenna Powell,18,Female,Doctor,"$36,627 ",Yes,No,Nintendo,FPS,Social Interaction,2,229,4,47,75,31,53,1,30
+10584,Amy Chandler,29,Other,Engineer,"$65,658 ",Yes,No,PC,Strategy,Loneliness,5,44,8,37,34,12,15,28,94
+10585,Maria Ross,23,Female,Artist,"$74,762 ",No,Yes,Nintendo,Strategy,Escapism,11,935,10,40,98,91,49,82,14
+10586,Christopher Mendez,20,Male,Other,"$183,078 ",No,No,Tablet,Horror,Competition,7,953,10,39,99,21,58,4,3
+10587,Rebecca Moore,18,Other,Doctor,"$69,024 ",No,No,Tablet,Sports,Entertainment,9,884,4,90,9,63,48,60,63
+10588,Sarah Espinoza,20,Female,Nurse,"$25,945 ",No,No,Xbox,MOBA,Social Interaction,5,409,10,85,44,27,81,8,30
+10590,Carrie Richard,30,Female,Nurse,"$193,447 ",No,Yes,PlayStation,Survival,Stress Relief,3,826,11,76,76,55,67,61,31
+10591,Jeffrey Fuller,18,Male,Developer,"$47,630 ",Yes,Yes,Tablet,FPS,Boredom,4,990,11,68,33,84,97,40,18
+10592,Arthur Chambers,19,Male,Student,"$92,716 ",No,Yes,PlayStation,Sports,Entertainment,10,771,9,38,52,18,53,15,47
+10593,Patricia Rogers,23,Other,Student,"$172,918 ",Yes,No,Tablet,Sports,Habit,11,57,10,9,90,29,84,44,77
+10594,Ralph Phillips,26,Male,Doctor,"$116,778 ",Yes,Yes,Xbox,MOBA,Social Interaction,5,331,5,3,56,55,62,68,16
+10595,Steven Webster,29,Male,Lawyer,"$152,688 ",No,Yes,PlayStation,Survival,Social Interaction,7,242,10,8,48,43,66,28,66
+10596,Karen Barrett,22,Female,Artist,"$111,818 ",No,Yes,PlayStation,MOBA,Habit,4,568,6,42,36,20,55,88,34
+10597,Jacob Tran,34,Other,Nurse,"$66,588 ",Yes,No,PC,RPG,Social Interaction,2,571,4,23,4,19,62,12,26
+10598,Brooke Landry,26,Female,Nurse,"$25,774 ",Yes,No,PlayStation,FPS,Social Interaction,7,112,4,38,28,49,3,95,7
+10599,Kimberly Murphy,27,Other,Other,"$17,327 ",Yes,Yes,PlayStation,MOBA,Stress Relief,8,234,8,58,21,49,71,15,9
+10600,Yolanda Garcia,20,Female,Designer,"$164,085 ",Yes,Yes,Nintendo,FPS,Escapism,2,92,6,45,50,37,76,12,48
+10601,Frank Flynn,23,Other,Designer,"$126,991 ",Yes,Yes,PlayStation,Horror,Stress Relief,6,118,11,78,79,57,70,64,14
+10602,Shannon Walker,28,Other,Artist,"$48,647 ",Yes,No,Xbox,MOBA,Boredom,5,316,11,32,40,78,66,77,40
+10603,William Hill,27,Other,Manager,"$1,066 ",Yes,Yes,PlayStation,Horror,Escapism,4,163,7,78,36,29,64,43,58
+10604,Eric Trujillo,29,Male,Nurse,"$39,841 ",No,No,PlayStation,Fighting,Social Interaction,8,303,8,8,58,56,78,47,45
+10605,Patricia Banks,29,Female,Manager,"$59,820 ",No,No,Cell Phone,Fighting,Entertainment,7,798,4,69,10,18,7,37,24
+10606,Amanda Mendoza,22,Other,Artist,"$121,867 ",No,Yes,Xbox,Fighting,Boredom,6,664,6,31,2,15,1,25,67
+10607,David Mendez,23,Male,Lawyer,"$118,111 ",No,Yes,Nintendo,MMORPG,Social Interaction,9,602,7,12,57,19,73,73,16
+10608,Erik Griffin,34,Male,Manager,"$36,127 ",No,Yes,PlayStation,Fighting,Competition,4,466,4,36,2,85,53,71,43
+10609,Lauren Reid,32,Other,Developer,"$192,915 ",Yes,Yes,PlayStation,MMORPG,Stress Relief,7,491,9,66,94,19,67,20,51
+10610,Mary Roberts,18,Other,Teacher,"$25,006 ",No,Yes,Nintendo,Racing,Habit,9,559,8,91,27,67,73,54,21
+10611,Rachel Fisher,34,Other,Manager,"$102,565 ",No,Yes,Cell Phone,Racing,Challenge,11,559,4,81,99,94,34,5,65
+10612,Michael Ortiz,32,Male,Designer,"$177,901 ",No,No,Nintendo,Survival,Escapism,2,227,4,6,30,21,32,91,45
+10613,Danny Ruiz,31,Male,Lawyer,"$197,748 ",No,Yes,Tablet,MOBA,Relaxation,1,581,5,89,79,81,70,52,94
+10614,Eric Ashley,30,Other,Designer,"$24,374 ",Yes,No,PC,MMORPG,Boredom,6,715,5,67,85,17,98,46,28
+10615,Daniel Banks,34,Other,Artist,"$2,058 ",No,Yes,PlayStation,RPG,Habit,9,812,6,49,87,21,47,44,98
+10617,Christopher Duran,19,Other,Lawyer,"$158,701 ",No,No,PC,Racing,Boredom,4,754,8,69,8,78,9,53,50
+10618,Anna Rosales,26,Female,Artist,"$107,249 ",Yes,Yes,Tablet,RPG,Loneliness,9,665,11,78,20,19,55,16,38
+10619,Kristina Thomas,31,Female,NURSE,"$11,460 ",Yes,No,PC,MOBA,Social Interaction,10,923,10,38,87,85,80,55,45
+10620,Joel Atkinson,19,Male,Manager,"$40,035 ",No,Yes,Tablet,Racing,Entertainment,6,950,4,13,5,9,86,86,55
+10621,Zachary Mclaughlin,31,Male,Teacher,"$169,971 ",No,No,Nintendo,Sports,Challenge,11,585,4,3,48,27,32,11,16
+10622,Marcia Michael,32,Other,Manager,"$50,276 ",Yes,No,Cell Phone,MMORPG,Loneliness,5,29,10,1,42,33,2,14,54
+10623,Angela Williams,30,Female,Nurse,"$130,366 ",No,Yes,Nintendo,Horror,Entertainment,2,222,5,43,78,75,87,64,80
+10624,Jacob Cooper,20,Male,Other,"$176,783 ",No,No,PlayStation,Sports,Social Interaction,6,408,7,89,30,39,10,40,83
+10625,Tiffany Ward,25,Female,Other,"$113,689 ",Yes,Yes,Cell Phone,Survival,Competition,9,298,7,10,36,71,73,13,63
+10626,Aaron Robles,30,Other,Teacher,"$81,669 ",No,No,Nintendo,Horror,Loneliness,6,521,9,8,9,12,90,27,56
+10627,Adam Morrison,28,Male,Developer,"$167,408 ",No,Yes,Xbox,FPS,Entertainment,6,721,6,33,82,35,50,51,29
+10628,Suzanne Bautista,22,Other,Designer,"$126,607 ",Yes,Yes,PC,MMORPG,Competition,3,399,11,55,50,61,25,34,22
+10629,Marissa Young,21,Female,Designer,"$181,537 ",No,Yes,PC,MMORPG,Relaxation,9,331,11,37,79,37,76,57,11
+10630,Gregory Collins,28,Other,Doctor,"$99,881 ",No,No,PlayStation,Racing,Relaxation,7,973,6,68,7,65,40,87,44
+10631,Beverly Hicks,24,Male,Doctor,"$104,339 ",Yes,Yes,PlayStation,FPS,Stress Relief,2,288,9,36,64,12,23,52,8
+10632,David Osborne,21,Male,Teacher,"$7,125 ",No,Yes,Tablet,MOBA,Boredom,8,680,4,57,14,68,91,63,48
+10633,Bridget Smith,28,Female,Artist,"$117,060 ",Yes,No,Nintendo,MMORPG,Habit,5,981,9,22,88,20,57,68,56
+10634,Colton Francis,27,Other,Designer,"$114,112 ",Yes,Yes,Tablet,Sports,Stress Relief,7,569,6,52,50,70,27,85,45
+10635,Leslie Hanson,24,Other,Doctor,"$167,115 ",Yes,No,Xbox,Horror,Competition,4,732,4,43,35,16,49,90,77
+10637,Heather Rice,33,Female,Student,"$100,058 ",No,Yes,Cell Phone,MOBA,Social Interaction,11,628,6,67,28,33,49,78,43
+10638,Judy Jones,26,Other,Artist,"$147,099 ",No,Yes,Xbox,Horror,Challenge,9,423,9,23,36,16,16,11,50
+10639,Patricia Cruz,25,Other,Writer,"$195,249 ",Yes,Yes,Nintendo,Horror,Habit,7,525,7,39,38,66,23,66,57
+10640,Melanie Chang,24,Other,Other,"$21,079 ",Yes,No,Tablet,Racing,Relaxation,9,463,11,95,42,22,9,16,29
+10642,Michael Young,34,Male,Designer,"$46,036 ",No,Yes,Tablet,FPS,Competition,4,587,6,68,45,60,36,44,92
+10643,Logan Schultz,21,Male,Designer,"$96,147 ",Yes,Yes,PlayStation,Survival,Entertainment,2,187,8,26,55,66,66,37,42
+10644,Cynthia Johnson,24,Female,Other,"$139,315 ",No,Yes,PlayStation,Strategy,Challenge,2,960,11,35,51,67,36,99,38
+10645,John Harrison,22,Male,Artist,"$154,011 ",No,No,Cell Phone,MMORPG,Competition,1,755,9,38,8,62,26,2,70
+10646,Kristin Klein,33,Other,Doctor,"$160,086 ",No,No,Cell Phone,Survival,Challenge,2,253,7,79,39,90,46,3,72
+10647,Jennifer Lawson,30,Other,Developer,"$101,482 ",No,Yes,Nintendo,Strategy,Stress Relief,3,558,6,11,9,57,33,41,32
+10648,Heidi Miller,24,Other,Doctor,"$11,043 ",Yes,Yes,Nintendo,Strategy,Relaxation,2,917,8,72,15,63,55,23,31
+10649,Anthony Chapman,19,Male,Writer,"$154,187 ",Yes,Yes,PC,Survival,Social Interaction,8,225,8,33,66,98,61,48,38
+10650,Anthony Reid,32,Male,Student,"$150,780 ",No,Yes,PlayStation,Strategy,Loneliness,1,593,5,14,60,25,76,63,81
+10651,Craig Reed,24,Other,Writer,"$195,457 ",Yes,No,Cell Phone,Strategy,Challenge,2,619,7,26,33,65,3,92,20
+10652,Nicholas Pacheco,25,Female,Developer,"$175,310 ",No,No,Cell Phone,MMORPG,Loneliness,11,466,8,77,83,11,41,93,24
+10653,David Copeland,23,Male,Doctor,"$115,900 ",No,Yes,PC,FPS,Social Interaction,8,467,5,78,73,52,64,65,63
+10654,William Smith,32,Male,Manager,"$163,676 ",Yes,No,PC,Racing,Loneliness,5,711,6,64,21,1,41,30,39
+10655,Sheila Williams,23,Female,Manager,"$186,702 ",Yes,Yes,Cell Phone,MOBA,Competition,10,70,8,82,85,45,32,80,52
+10656,Matthew Payne,33,Male,Teacher,"$46,138 ",Yes,No,Xbox,Sports,Challenge,8,831,7,58,1,59,3,9,7
+10657,Heidi Warren,24,Female,Writer,"$97,977 ",No,No,PC,FPS,Boredom,1,125,11,64,29,87,47,98,13
+10658,Robert Hicks,19,Male,Manager,"$7,464 ",No,No,PlayStation,Racing,Challenge,6,672,5,86,65,89,46,97,46
+10659,Anna Wilkins,21,Other,Student,"$127,924 ",No,Yes,Cell Phone,Sports,Stress Relief,9,613,9,88,35,3,35,60,93
+10660,Christina Dennis,30,Other,Teacher,"$153,420 ",Yes,Yes,PlayStation,Horror,Loneliness,1,531,5,20,23,34,11,69,31
+10661,Christina Jarvis,29,Female,Doctor,"$56,266 ",Yes,Yes,Nintendo,FPS,Relaxation,8,513,5,24,84,61,89,58,13
+10662,Mark Jimenez,20,Other,Doctor,"$189,747 ",No,No,PC,RPG,Boredom,2,215,5,8,32,80,55,13,21
+10663,Dwayne Schmidt,32,Male,Nurse,"$114,959 ",Yes,No,Xbox,RPG,Relaxation,11,226,4,99,28,83,41,82,92
+10664,Christopher Hahn,21,Other,Developer,"$37,570 ",No,No,Tablet,Survival,Relaxation,6,261,9,63,19,13,71,36,78
+10665,Carl Hull,24,Other,Teacher,"$76,549 ",No,No,Nintendo,Strategy,Boredom,7,745,8,10,12,51,33,82,80
+10666,Gregory Adams,18,Male,Lawyer,"$64,134 ",Yes,No,Xbox,Sports,Relaxation,7,834,11,77,17,62,87,88,2
+10667,Amy Elliott,24,Female,Lawyer,"$69,161 ",Yes,No,Cell Phone,Sports,Escapism,10,301,4,84,5,99,90,10,13
+10668,Lisa Cruz,20,Female,Developer,"$127,978 ",No,Yes,Xbox,MOBA,Escapism,2,570,6,99,84,73,7,35,19
+10669,Robert Mendoza,33,Male,Lawyer,"$155,345 ",No,Yes,Xbox,RPG,Competition,1,222,10,55,82,97,9,36,34
+10670,Michelle Ryan,24,Other,Lawyer,"$179,871 ",Yes,Yes,PC,Fighting,Challenge,8,443,5,65,10,53,75,70,40
+10671,Michael White,29,Male,Teacher,"$108,945 ",Yes,Yes,PlayStation,MOBA,Loneliness,3,315,8,34,86,40,68,92,45
+10672,Kyle Cantu,34,Female,Teacher,"$98,320 ",No,No,Xbox,Horror,Escapism,7,433,5,29,67,37,16,3,94
+10673,Misty Martin,19,Female,Designer,"$174,255 ",Yes,Yes,Cell Phone,RPG,Stress Relief,10,769,8,45,65,64,74,23,17
+10674,Isaiah Carr,26,Other,Other,"$126,545 ",No,No,Tablet,MMORPG,Social Interaction,4,777,6,52,97,3,24,45,71
+10675,Monica Moore,21,Female,Nurse,"$14,243 ",Yes,Yes,PlayStation,Fighting,Challenge,4,26,9,69,8,57,42,95,84
+10676,Steven Robinson,29,Male,Teacher,"$194,278 ",Yes,Yes,Tablet,Fighting,Escapism,9,286,4,18,55,82,81,67,17
+10677,John Hinton,34,Male,Student,"$178,149 ",Yes,Yes,PC,MMORPG,Social Interaction,2,323,4,79,84,59,68,10,85
+10678,Shannon Berry,21,Female,Teacher,"$63,888 ",No,Yes,PC,Sports,Habit,1,203,7,78,88,13,34,19,73
+10679,Victoria Edwards,19,Female,Student,"$98,780 ",No,Yes,PC,Fighting,Habit,10,343,4,43,50,91,86,32,43
+10680,Gwendolyn Kelly,22,Male,Developer,"$169,740 ",No,Yes,Nintendo,Racing,Habit,2,608,11,76,44,69,62,10,52
+10681,Christine Olson,20,Female,Artist,"$126,572 ",Yes,Yes,Tablet,Strategy,Challenge,2,683,8,64,88,93,92,56,61
+10682,Jonathan Turner,29,Other,Teacher,"$7,524 ",Yes,Yes,Nintendo,Horror,Boredom,10,935,4,69,39,53,22,38,88
+10683,Kayla Carter,25,Female,Nurse,"$154,190 ",Yes,Yes,Tablet,Survival,Social Interaction,5,845,5,8,70,61,67,87,44
+10684,Christine Taylor,33,Female,Doctor,"$131,672 ",Yes,No,Nintendo,Racing,Boredom,8,555,10,12,34,40,96,54,46
+10685,Gabriel Bowers,25,Male,Writer,"$187,176 ",No,No,PlayStation,Horror,Habit,8,911,8,73,47,78,72,59,21
+10686,Elizabeth Pena,33,Female,Artist,"$130,866 ",Yes,Yes,PC,Racing,Loneliness,10,656,9,87,78,50,42,33,73
+10687,Christopher Henderson,21,Male,Student,"$186,451 ",Yes,Yes,Nintendo,Survival,Competition,7,651,9,31,86,7,21,92,61
+10688,Ellen King,34,Other,Designer,"$176,503 ",No,Yes,Xbox,FPS,Relaxation,6,775,10,59,40,10,66,34,27
+10689,Kyle Lopez,27,Other,Nurse,"$35,766 ",No,No,Nintendo,FPS,Social Interaction,5,980,6,36,57,82,48,37,88
+10690,Brooke Farley,31,Female,Other,"$83,753 ",No,No,PlayStation,MOBA,Loneliness,9,687,4,94,34,75,25,67,55
+10691,David Suarez,27,Other,Developer,"$22,628 ",No,No,PC,FPS,Social Interaction,2,728,9,38,27,43,50,37,14
+10692,Corey Hale,28,Female,Teacher,"$102,700 ",No,Yes,Tablet,Racing,Habit,8,495,9,43,34,63,15,63,90
+10693,Sarah Li,34,Female,Engineer,"$19,267 ",Yes,No,Cell Phone,Strategy,Social Interaction,9,928,9,42,57,25,85,20,42
+10694,Anita Moore,18,Other,Manager,$336 ,Yes,No,PC,Horror,Loneliness,11,739,10,26,35,22,25,12,61
+10695,Krystal Hanson,20,Female,Lawyer,"$82,060 ",Yes,Yes,Xbox,MOBA,Habit,2,123,10,5,84,36,87,91,92
+10696,Jennifer Thomas,31,Other,Nurse,"$164,278 ",Yes,Yes,PC,Strategy,Social Interaction,6,930,5,40,75,85,91,12,18
+10697,Shirley Clarke,30,Other,Other,"$105,563 ",No,No,PlayStation,Horror,Habit,11,627,8,19,29,69,23,20,95
+10698,Tracy Turner,22,Female,Student,"$78,790 ",Yes,No,Tablet,Horror,Boredom,5,967,11,26,63,36,45,6,43
+10699,Rebecca Lee,27,Female,Teacher,"$79,601 ",No,Yes,Nintendo,Sports,Entertainment,2,767,8,50,34,98,23,99,44
+10700,Kent Fernandez,30,Male,Teacher,"$31,692 ",No,No,Tablet,Racing,Social Interaction,11,518,4,18,42,30,58,46,63
+10701,Cheryl Cole,24,Other,Other,"$113,339 ",No,No,PC,MOBA,Habit,3,405,10,9,7,51,66,55,3
+10702,Ronald Klein,25,Other,Doctor,"$197,911 ",Yes,No,Tablet,RPG,Relaxation,7,821,10,52,97,73,56,94,91
+10703,Gail Flores,25,Other,Teacher,"$31,766 ",No,No,PC,Strategy,Challenge,3,917,11,41,64,44,1,55,10
+10704,Dominique Grimes,27,Female,Developer,"$24,053 ",Yes,No,PlayStation,Racing,Escapism,5,541,8,6,31,42,56,98,94
+10705,Ashley Garcia,24,Other,Designer,"$115,830 ",No,No,Xbox,Survival,Stress Relief,11,37,11,54,10,71,89,76,48
+10706,Anthony Cohen,26,Male,Designer,"$90,561 ",No,No,Nintendo,Strategy,Stress Relief,4,21,11,21,62,92,76,29,72
+10707,Mary Ramsey,26,Other,Lawyer,"$96,985 ",Yes,Yes,Xbox,RPG,Competition,5,381,8,24,4,74,23,9,69
+10708,Terri Hall,22,Female,Designer,"$195,506 ",No,No,PC,Survival,Entertainment,9,488,9,63,66,64,13,12,72
+10709,Angela Diaz,29,Other,Developer,"$38,924 ",No,No,Nintendo,Fighting,Relaxation,7,204,10,60,5,30,21,32,12
+10710,Brittany Smith,18,Other,Developer,"$47,949 ",No,Yes,Xbox,MMORPG,Habit,2,734,4,11,72,26,84,41,96
+10711,Logan Miller,25,Other,Doctor,"$2,098 ",Yes,Yes,Xbox,Strategy,Competition,1,768,10,64,6,67,81,65,45
+10712,Deborah Brooks,19,Male,Lawyer,"$181,683 ",No,Yes,PlayStation,Survival,Challenge,4,572,9,39,72,85,5,83,46
+10713,Jennifer Mccall,23,Female,Engineer,"$17,032 ",No,Yes,Tablet,Horror,Entertainment,3,404,6,26,34,34,30,81,2
+10714,Chelsea Davis,26,Other,Nurse,"$184,859 ",No,Yes,PC,Horror,Challenge,8,137,5,80,94,32,94,30,78
+10715,Wanda Craig,33,Female,Designer,"$197,778 ",No,No,Tablet,Racing,Competition,10,119,8,76,83,10,19,23,75
+10716,Henry Robinson,30,Male,Doctor,"$25,524 ",Yes,No,Xbox,MMORPG,Stress Relief,10,749,10,55,70,53,20,64,17
+10717,Bryce Elliott,26,Male,Engineer,"$98,590 ",No,No,Xbox,MOBA,Social Interaction,8,867,10,36,82,24,24,34,53
+10718,Danny Scott,20,Other,Writer,"$138,811 ",Yes,No,Nintendo,Strategy,Habit,1,334,7,69,37,34,61,36,20
+10719,Samantha Byrd,26,Female,Developer,"$84,109 ",No,Yes,Nintendo,MOBA,Boredom,11,304,7,68,67,55,97,98,44
+10720,Sarah Murray,19,Female,Doctor,"$84,713 ",No,No,Xbox,Racing,Challenge,4,354,7,93,56,87,25,15,83
+10721,Anna Sanchez,24,Other,Designer,"$29,620 ",Yes,Yes,Cell Phone,RPG,Boredom,4,148,9,75,64,7,91,3,18
+10722,Brian Mckinney,20,Male,Nurse,"$24,880 ",No,Yes,Tablet,MOBA,Stress Relief,5,480,8,29,61,92,40,60,14
+10723,Roger Marquez,20,Male,Student,"$23,514 ",No,No,PC,Strategy,Social Interaction,3,400,6,35,72,74,13,68,45
+10724,Alexander Smith,29,Other,Lawyer,"$195,478 ",No,No,PlayStation,FPS,Relaxation,5,118,8,21,45,45,33,52,1
+10725,Daniel Jackson,22,Male,Manager,"$140,576 ",Yes,No,PC,MOBA,Competition,2,245,9,18,83,42,25,52,9
+10726,Derek Dominguez,20,Other,Artist,"$89,192 ",No,No,PC,FPS,Challenge,7,450,7,15,13,63,90,50,24
+10727,Aaron Coleman,20,Male,Engineer,"$159,962 ",No,No,Cell Phone,Sports,Stress Relief,8,316,5,50,87,9,47,27,80
+10728,Christy Bryant,25,Other,Student,"$54,884 ",Yes,No,PlayStation,MMORPG,Entertainment,6,794,4,85,78,22,73,87,54
+10729,Andrew Carlson,20,Male,Writer,"$155,308 ",Yes,Yes,Cell Phone,Racing,Competition,3,617,5,82,57,21,50,64,61
+10730,Tonya Newman,32,Other,Teacher,"$27,723 ",Yes,No,PC,Racing,Stress Relief,8,828,11,96,52,44,23,60,56
+10731,Steven Stuart,28,Male,Manager,"$119,741 ",No,Yes,PC,Fighting,Social Interaction,4,127,7,57,81,90,69,65,16
+10732,Cassandra Todd,31,Female,Designer,"$91,202 ",No,Yes,Xbox,MMORPG,Boredom,1,471,7,645,94,1,47,7,4
+10733,Steven Robinson,28,Male,Manager,"$22,822 ",Yes,Yes,PC,MOBA,Entertainment,5,983,9,25,53,13,49,71,61
+10734,Jacob Harris,24,Other,Student,"$5,102 ",Yes,Yes,Cell Phone,MMORPG,Challenge,4,676,8,72,83,96,71,26,4
+10735,Maurice Jackson,33,Female,Lawyer,"$23,205 ",Yes,Yes,PlayStation,MMORPG,Stress Relief,10,943,6,66,40,78,80,4,27
+10736,Mario Decker,33,Male,Designer,"$72,946 ",Yes,No,Cell Phone,RPG,Entertainment,10,783,6,72,55,22,58,56,21
+10737,Vicki Lee,30,Female,Other,"$88,453 ",Yes,No,Xbox,Survival,Relaxation,3,871,6,7,96,80,96,85,1
+10738,Daniel Webb,20,Other,Writer,"$30,351 ",No,Yes,Nintendo,RPG,Stress Relief,4,293,8,76,68,17,83,16,29
+10739,Alan Adkins,28,Female,Doctor,"$111,289 ",Yes,No,Xbox,Survival,Challenge,9,27,6,5,77,31,19,26,89
+10740,James Rodriguez,29,Male,Developer,"$66,653 ",Yes,Yes,Cell Phone,FPS,Stress Relief,4,985,9,11,34,17,54,2,91
+10741,Latoya Hamilton,18,Male,Doctor,"$59,178 ",No,Yes,PlayStation,FPS,Challenge,5,671,9,29,92,80,23,85,75
+10742,Michael James,20,Male,Artist,"$181,871 ",Yes,Yes,Xbox,Survival,Boredom,3,602,4,31,49,64,79,23,29
+10743,Amanda Simmons,29,Female,Engineer,"$141,757 ",No,No,Nintendo,RPG,Relaxation,8,306,10,72,60,60,80,20,32
+10744,Austin Mitchell,22,Male,Writer,"$58,844 ",No,Yes,Nintendo,Horror,Boredom,2,611,4,63,65,92,66,64,56
+10745,Janice Johnson,25,Other,Other,"$45,060 ",Yes,Yes,Tablet,Racing,Entertainment,4,582,11,56,32,43,53,85,51
+10746,Michael Stone,27,Other,Manager,"$180,568 ",Yes,Yes,PlayStation,Survival,Challenge,1,322,11,8,36,3,43,23,72
+10747,Adam Beck,33,Other,Developer,"$98,750 ",No,No,PlayStation,RPG,Loneliness,8,220,4,76,4,60,2,45,30
+10748,Jessica Lucas,23,Other,Artist,"$94,419 ",No,No,Nintendo,MOBA,Relaxation,10,479,6,17,3,94,83,12,47
+10749,Hannah Murphy,26,Female,Lawyer,"$15,531 ",No,Yes,Xbox,FPS,Stress Relief,10,96,7,26,6,24,10,47,30
+10750,Kyle Cook,21,Male,Nurse,"$178,487 ",Yes,No,Tablet,Survival,Competition,3,776,4,66,31,52,31,50,93
+10751,Michael Chung,21,Male,Other,"$153,378 ",Yes,No,Xbox,Fighting,Entertainment,2,949,8,71,40,10,69,75,48
+10752,Paul Terry,34,Other,Writer,"$131,188 ",No,No,PC,FPS,Challenge,5,480,6,70,61,29,2,41,68
+10753,Christine Griffin,32,Other,Designer,"$43,079 ",No,No,Tablet,Racing,Stress Relief,3,923,10,84,26,4,3,20,34
+10754,Felicia James,27,Other,Artist,"$149,037 ",No,No,Nintendo,MMORPG,Habit,1,454,6,22,25,12,35,78,62
+10755,John Franklin,28,Male,Artist,"$169,171 ",No,No,Cell Phone,MOBA,Habit,2,691,4,15,35,24,14,4,27
+10756,Joe Gutierrez,34,Male,Developer,"$65,240 ",No,No,Nintendo,Racing,Competition,5,867,4,26,15,77,3,81,55
+10757,Thomas Fletcher,29,Male,Teacher,"$73,811 ",Yes,No,Tablet,Horror,Relaxation,4,922,6,76,20,68,74,52,96
+10758,Rhonda Griffin,18,Other,Lawyer,"$91,878 ",Yes,No,PC,Racing,Loneliness,7,976,8,17,18,25,28,36,59
+10759,Amanda Foster,33,Other,Writer,"$75,145 ",No,Yes,Xbox,Fighting,Entertainment,2,516,7,21,66,62,86,19,33
+10760,Joyce Stewart,23,Female,Writer,"$96,241 ",No,Yes,Xbox,MOBA,Habit,11,390,4,67,39,20,86,3,4
+10761,Luis Johnson,30,Male,Teacher,"$103,572 ",No,Yes,Xbox,Survival,Entertainment,5,236,8,84,31,40,91,46,60
+10762,William Phillips,23,Other,Lawyer,"$148,824 ",Yes,Yes,Xbox,Survival,Relaxation,1,604,10,42,23,83,12,86,3
+10763,Bryan Mcdaniel,34,Male,Lawyer,"$9,914 ",Yes,No,Nintendo,Strategy,Boredom,11,298,10,17,18,11,69,94,65
+10764,Jessica Cisneros,20,Other,Doctor,"$96,394 ",No,Yes,Xbox,Survival,Entertainment,6,334,10,43,64,85,71,68,22
+10765,Scott May,24,Male,Designer,"$184,965 ",Yes,No,Xbox,MMORPG,Competition,3,587,8,37,91,82,99,77,93
+10766,Julian Carr,25,Male,Other,"$168,147 ",No,No,Nintendo,MMORPG,Boredom,2,784,7,22,91,18,80,59,59
+10767,Michael Vasquez,29,Male,Teacher,"$92,902 ",Yes,No,PC,Horror,Competition,7,248,5,74,43,4,31,5,72
+10768,Christian Young,25,Male,Nurse,"$92,686 ",No,Yes,Nintendo,MMORPG,Competition,8,512,9,80,71,1,3,14,97
+10769,Laura Zhang,27,Female,Teacher,"$116,700 ",Yes,Yes,Cell Phone,MMORPG,Habit,2,34,5,52,96,7,41,80,8
+10770,Laura Alvarado,33,Female,Manager,"$187,645 ",Yes,No,Cell Phone,MMORPG,Stress Relief,10,748,9,24,55,38,39,60,9
+10771,Jessica Wells,25,Other,Artist,"$84,331 ",No,No,Tablet,RPG,Habit,3,769,4,27,28,99,19,70,30
+10772,Jay Johnson,27,Male,Nurse,"$186,432 ",Yes,No,Nintendo,RPG,Escapism,6,63,8,17,76,86,28,57,64
+10773,Anna Jackson,28,Female,Other,"$82,128 ",Yes,Yes,Xbox,Fighting,Entertainment,6,837,11,84,3,18,25,16,51
+10774,Sandra Rodriguez,33,Female,Student,"$48,213 ",Yes,No,Nintendo,MMORPG,Relaxation,1,895,4,69,67,43,72,49,18
+10775,Stuart Ferguson,22,Other,Engineer,"$138,982 ",No,No,Nintendo,MOBA,Habit,5,341,7,21,4,81,24,35,96
+10776,David Petty,31,Male,Lawyer,"$87,778 ",Yes,Yes,PC,Sports,Escapism,10,728,11,70,88,87,41,6,38
+10777,William Myers,19,Male,Lawyer,"$11,610 ",No,No,Xbox,Sports,Loneliness,4,698,9,21,87,40,66,39,28
+10778,Benjamin Keller,33,Other,Doctor,"$183,482 ",Yes,Yes,Tablet,Racing,Boredom,6,309,11,97,87,47,92,86,63
+10779,Amy Burton,18,Female,Manager,"$103,016 ",Yes,Yes,Nintendo,FPS,Escapism,3,782,9,45,27,21,93,8,42
+10780,Kelsey Graham,23,Female,Engineer,"$190,169 ",No,Yes,PC,Racing,Entertainment,10,269,4,16,28,67,57,63,89
+10781,Julia Acevedo,29,Female,Artist,"$51,001 ",Yes,No,Tablet,Survival,Habit,7,60,10,26,33,60,71,11,81
+10782,Bradley Hancock,22,Female,Lawyer,"$164,187 ",Yes,No,Xbox,Horror,Escapism,8,694,11,62,86,18,1,93,2
+10783,Michael Gonzalez,31,Other,Teacher,"$189,710 ",Yes,No,Xbox,Survival,Habit,10,512,10,78,22,63,21,13,51
+10784,Susan Williams,23,Other,Manager,"$73,398 ",Yes,No,PC,Sports,Competition,11,525,9,62,99,5,8,23,87
+10785,Anthony Lee,19,Other,Engineer,"$23,147 ",Yes,No,PC,Fighting,Entertainment,8,607,6,56,55,35,93,77,20
+10786,Adrian Jones,26,Other,Developer,"$44,031 ",No,Yes,PlayStation,MOBA,Challenge,8,747,11,38,49,85,28,9,38
+10787,Jennifer Mcbride,29,Female,Other,"$109,687 ",No,No,Nintendo,MOBA,Social Interaction,10,331,10,13,82,51,55,11,74
+10788,Brandon Owens,25,Male,Doctor,"$118,878 ",Yes,No,Tablet,Horror,Challenge,7,444,9,67,4,81,62,9,34
+10789,Sean Orozco,26,Male,Nurse,"$110,420 ",Yes,Yes,PC,MOBA,Competition,9,428,8,75,28,77,40,65,57
+10790,Veronica Harmon,24,Other,Doctor,"$58,169 ",Yes,No,Tablet,MMORPG,Loneliness,5,948,10,34,72,24,58,47,97
+10791,Charles Walker,21,Male,Artist,"$72,292 ",No,No,PC,Sports,Competition,10,409,6,56,62,27,34,36,92
+10792,Amanda Figueroa,28,Female,Student,"$22,715 ",Yes,No,PlayStation,Racing,Entertainment,9,182,9,47,22,36,87,21,31
+10793,Raymond Ramsey,32,Other,Manager,"$15,809 ",No,Yes,PlayStation,Sports,Boredom,11,21,7,11,99,19,98,90,50
+10794,Benjamin Gonzalez,29,Other,Developer,"$105,871 ",No,No,Xbox,Sports,Entertainment,11,506,4,34,11,66,94,16,63
+10795,Jason Bell,23,Other,Developer,"$163,670 ",No,Yes,Tablet,RPG,Habit,7,200,7,33,70,41,43,45,39
+10796,Donald Carter,26,Other,Lawyer,"$173,874 ",No,Yes,Xbox,Survival,Loneliness,1,932,9,24,14,63,84,42,69
+10797,Brandy Scott,29,Other,Designer,"$198,908 ",Yes,Yes,Nintendo,Sports,Escapism,11,671,4,12,59,64,95,91,18
+10798,Richard Taylor,24,Male,Nurse,"$92,370 ",No,No,Tablet,MOBA,Social Interaction,10,435,7,74,72,38,40,27,95
+10799,Kevin Taylor,31,Male,Manager,"$153,671 ",No,Yes,Xbox,Strategy,Challenge,4,381,9,10,49,4,51,88,33
+10800,Angel Hunt,31,Other,Doctor,"$26,524 ",Yes,No,Cell Phone,Sports,Relaxation,10,912,9,98,12,78,1,63,60
+10801,Kevin Perez,29,Male,Designer,"$68,764 ",No,No,Tablet,FPS,Escapism,7,253,4,94,80,52,12,46,42
+10802,Jason Farrell,31,Other,Other,"$83,744 ",Yes,No,Tablet,MOBA,Escapism,10,560,11,44,41,81,56,62,86
+10803,Brenda Howard,25,Female,Other,"$125,729 ",No,Yes,Tablet,MOBA,Loneliness,9,639,10,92,16,62,98,64,37
+10804,Robert Roth,21,Other,Doctor,"$13,066 ",Yes,Yes,Tablet,MMORPG,Challenge,11,647,6,70,28,35,55,97,57
+10805,Douglas Juarez,21,Male,Designer,"$106,249 ",No,No,Xbox,Racing,Escapism,11,94,6,48,68,12,13,82,17
+10806,Doris Smith,22,Female,Engineer,"$68,792 ",Yes,Yes,PC,Survival,Loneliness,5,164,6,92,82,49,46,18,78
+10807,Carmen Harris,32,Other,Writer,"$184,629 ",Yes,No,PlayStation,Strategy,Entertainment,3,246,9,4,48,79,57,76,17
+10808,Pam James,28,Female,Designer,"$181,801 ",No,No,Tablet,Fighting,Escapism,11,912,6,10,5,28,60,14,8
+10809,Robert Moreno,25,Male,Lawyer,"$164,865 ",Yes,No,Xbox,Survival,Entertainment,7,985,11,19,62,55,81,19,30
+10810,Krista Logan,30,Female,Developer,"$49,535 ",Yes,Yes,Cell Phone,Sports,Challenge,8,210,10,25,33,56,14,96,72
+10811,James Scott,20,Male,Other,"$60,342 ",Yes,No,Tablet,Racing,Challenge,6,527,10,34,81,75,92,50,11
+10812,Laura Lee,34,Other,Teacher,"$91,358 ",No,No,PC,Survival,Escapism,3,300,5,55,30,56,24,63,41
+10813,Ashley Anderson,22,Other,Developer,"$80,805 ",No,No,Xbox,MOBA,Challenge,9,891,8,49,64,59,60,97,97
+10814,Charles Powell,28,Male,Student,"$59,771 ",No,No,PC,MOBA,Entertainment,7,189,10,73,80,44,80,9,22
+10815,Gregory Guzman,22,Other,Nurse,"$169,451 ",No,No,PlayStation,MOBA,Social Interaction,9,221,10,37,76,6,47,64,16
+10816,Teresa Clark,25,Female,Teacher,"$44,737 ",No,Yes,Nintendo,Fighting,Entertainment,9,879,10,92,51,25,92,86,53
+10817,Michael Juarez,29,Other,Lawyer,"$86,730 ",No,Yes,PC,Horror,Social Interaction,6,251,7,20,37,84,30,53,61
+10818,Christopher Jones,29,Other,Doctor,"$120,917 ",No,Yes,Nintendo,MOBA,Relaxation,3,826,4,81,83,84,65,34,88
+10819,Chris Norris,24,Male,Designer,"$155,742 ",No,Yes,Cell Phone,Racing,Stress Relief,2,308,4,1,19,72,30,50,20
+10820,William Archer,29,Male,Student,"$181,872 ",Yes,Yes,Tablet,Fighting,Boredom,11,896,11,52,74,32,46,10,1
+10821,Thomas Lane,33,Male,Writer,$707 ,No,Yes,PlayStation,Strategy,Challenge,10,390,5,94,84,50,94,40,4
+10822,Brittany Young,32,Female,Lawyer,"$149,967 ",Yes,No,Tablet,FPS,Stress Relief,11,52,11,34,67,5,32,73,60
+10823,Julie Madden,23,Female,Manager,"$75,437 ",Yes,No,Tablet,FPS,Habit,2,475,7,97,59,81,95,3,4
+10824,Erika Manning,23,Female,Artist,"$135,229 ",Yes,No,Nintendo,MMORPG,Escapism,8,713,10,63,18,31,70,97,89
+10825,Kelsey Guzman,32,Other,Nurse,"$99,238 ",Yes,No,Tablet,Racing,Competition,11,480,4,44,40,15,13,1,27
+10826,Wesley Russell,26,Male,Student,"$100,445 ",Yes,No,Tablet,Racing,Entertainment,10,318,5,65,33,95,16,10,13
+10827,Michelle White,29,Female,Teacher,"$179,065 ",Yes,Yes,Cell Phone,MMORPG,Loneliness,11,905,8,92,59,27,14,52,31
+10828,Natasha Blackwell,20,Female,Doctor,"$45,951 ",No,Yes,Nintendo,Sports,Challenge,8,919,5,11,89,11,12,59,87
+10829,Courtney Hamilton,29,Female,Teacher,"$147,072 ",Yes,Yes,Tablet,Strategy,Escapism,7,245,4,71,20,87,61,3,57
+10830,Angela Lopez,31,Female,Manager,"$141,486 ",No,Yes,Tablet,FPS,Stress Relief,2,450,4,22,83,24,36,93,3
+10831,Stephanie Blackburn,24,Other,Designer,"$65,637 ",No,No,Cell Phone,Racing,Entertainment,2,495,9,1,18,69,87,2,60
+10832,Robert Reilly,34,Male,Teacher,"$52,686 ",No,Yes,Tablet,FPS,Habit,10,101,9,44,41,39,40,87,61
+10833,Maria Nelson,27,Female,Designer,"$69,734 ",No,No,Xbox,Survival,Relaxation,11,55,8,59,48,97,71,42,78
+10834,Ryan Gomez,23,Male,Lawyer,"$133,035 ",No,Yes,PlayStation,MOBA,Competition,10,654,7,27,27,18,96,18,96
+10835,Edward Campos,25,Male,Doctor,"$55,970 ",Yes,Yes,Nintendo,MMORPG,Escapism,1,175,10,70,50,87,29,7,56
+10836,Edward Kirby,29,Other,Designer,"$177,584 ",No,No,Nintendo,Racing,Relaxation,8,516,6,56,23,68,82,94,28
+10837,Lindsay Roberts,21,Female,Nurse,"$151,647 ",No,No,PC,Strategy,Challenge,7,692,7,56,64,59,71,34,78
+10838,Gabriel Harrison,32,Male,Designer,"$103,601 ",Yes,No,Cell Phone,Strategy,Loneliness,11,738,4,24,47,84,96,83,10
+10839,Robert Spence,23,Male,Student,"$116,294 ",Yes,No,Tablet,Sports,Competition,4,228,5,2,85,25,1,1,60
+10840,Kara Jackson,19,Female,Artist,"$191,020 ",No,Yes,PC,Fighting,Relaxation,7,714,4,19,33,57,13,5,22
+10841,Mark Parrish,27,Male,Lawyer,"$90,359 ",Yes,No,Nintendo,Fighting,Loneliness,3,916,10,51,3,46,5,91,28
+10842,Brittany Rogers,23,Female,Developer,"$123,601 ",No,Yes,PC,Horror,Competition,9,456,10,93,76,96,10,53,12
+10843,David Thomas,28,Other,Designer,"$20,263 ",Yes,No,Cell Phone,Survival,Social Interaction,7,383,8,37,60,2,79,22,54
+10844,John Rodriguez,18,Other,Designer,"$133,711 ",No,Yes,Nintendo,Racing,Boredom,8,103,7,75,8,6,80,79,24
+10845,Courtney Perry,27,Other,Designer,"$38,073 ",No,Yes,Cell Phone,Horror,Competition,4,303,8,14,20,78,5,24,99
+10846,Courtney Gray,21,Other,Other,"$180,624 ",Yes,Yes,Xbox,Horror,Relaxation,2,430,6,91,52,9,22,38,67
+10847,Zachary Davis,23,Male,Teacher,"$66,867 ",Yes,Yes,Xbox,MMORPG,Escapism,10,661,5,3,96,99,77,7,81
+10848,Julie Middleton,26,Other,Other,"$42,545 ",Yes,Yes,Tablet,FPS,Loneliness,9,981,10,47,78,4,73,16,62
+10849,Marcus Wilson,27,Male,Developer,"$150,369 ",Yes,Yes,Cell Phone,Strategy,Competition,2,662,9,87,55,26,69,47,86
+10850,Darren Yang,30,Other,Nurse,"$198,198 ",Yes,No,Cell Phone,Fighting,Stress Relief,5,701,10,47,99,65,66,23,85
+10851,Lauren Wilson,21,Female,Student,"$98,688 ",Yes,Yes,Tablet,RPG,Escapism,10,561,4,86,19,98,1,84,20
+10852,Michael Johnson,34,Male,Manager,"$104,534 ",Yes,Yes,Nintendo,Fighting,Relaxation,7,729,7,9,18,36,9,37,47
+10853,Marc Miller,34,Other,Teacher,"$173,056 ",No,Yes,Cell Phone,Horror,Competition,3,209,8,42,67,66,26,65,78
+10854,Rhonda Briggs,18,Female,Developer,"$38,883 ",No,No,PC,RPG,Loneliness,10,196,10,12,86,11,10,61,64
+10855,Rebecca Sosa,23,Female,Teacher,"$44,400 ",No,Yes,Xbox,Sports,Relaxation,7,613,8,55,89,4,88,31,4
+10856,Justin Black,18,Male,Manager,"$82,245 ",Yes,No,Cell Phone,Racing,Habit,11,107,10,65,42,85,98,86,80
+10857,Michael Douglas,33,Male,Manager,"$38,634 ",No,Yes,Nintendo,Strategy,Loneliness,10,561,5,88,41,62,31,29,98
+10858,Andrew Mann,33,Other,Doctor,"$91,353 ",No,Yes,PC,Survival,Escapism,11,370,4,30,35,82,15,80,4
+10859,Sheilla Andrews,29,Female,Teacher,"$161,769 ",Yes,No,Nintendo,Racing,Escapism,9,911,11,47,70,44,30,70,50
+10860,Christopher Porter,33,Male,Writer,"$144,688 ",Yes,Yes,PlayStation,Survival,Competition,3,692,5,54,53,36,70,94,90
+10861,Troy Sullivan,29,Male,Developer,"$154,877 ",No,Yes,Cell Phone,FPS,Competition,7,511,5,74,96,69,17,73,89
+10862,Christina Murphy,18,Other,Designer,"$89,524 ",Yes,Yes,Nintendo,Fighting,Competition,10,956,5,10,52,74,84,32,91
+10863,Robert Sanford,19,Male,Engineer,"$50,684 ",Yes,Yes,PC,Strategy,Challenge,5,496,6,25,26,72,66,5,59
+10864,Zachary Armstrong,25,Male,Doctor,"$116,119 ",No,Yes,Cell Phone,MMORPG,Stress Relief,4,917,10,6,44,50,3,92,99
+10865,Lisa Fuller,25,Other,Engineer,"$88,849 ",Yes,Yes,Nintendo,FPS,Competition,3,327,9,61,30,43,49,50,75
+10866,Michelle Jones,29,Female,Other,"$92,776 ",Yes,No,PC,Fighting,Stress Relief,7,347,10,17,19,22,93,84,84
+10867,Alexandra Bonilla,21,Female,Artist,"$63,566 ",No,No,PlayStation,Survival,Relaxation,10,545,10,65,67,49,72,88,6
+10868,Dustin Cowan,19,Male,Nurse,"$108,110 ",No,Yes,PlayStation,MOBA,Habit,9,708,10,5,33,65,72,47,33
+10869,Stephanie Bates,25,Female,Nurse,"$124,678 ",No,Yes,PC,Fighting,Stress Relief,2,22,11,17,4,27,65,13,46
+10870,Jeremy Summers,25,Male,Nurse,"$119,592 ",Yes,Yes,Tablet,Fighting,Entertainment,2,256,10,77,46,63,83,58,87
+10871,Melissa Edwards,26,Other,Writer,"$56,868 ",Yes,Yes,Cell Phone,FPS,Entertainment,8,878,4,86,51,43,61,1,25
+10872,Stacy Williams,33,Female,Engineer,"$180,911 ",Yes,No,Tablet,FPS,Social Interaction,5,641,8,62,58,59,37,17,19
+10873,Derrick Young,25,Other,Other,"$186,828 ",Yes,Yes,PlayStation,RPG,Competition,5,967,5,34,64,4,83,61,63
+10874,Becky Washington,27,Female,Engineer,$131 ,No,Yes,PlayStation,Fighting,Loneliness,7,209,10,92,38,8,64,92,14
+10875,Thomas Robinson,26,Other,Designer,"$17,996 ",No,Yes,Cell Phone,Fighting,Stress Relief,11,801,11,21,93,69,35,65,87
+10876,Michelle Strickland,27,Female,Teacher,"$163,196 ",Yes,Yes,Cell Phone,Horror,Entertainment,3,58,9,52,48,86,64,94,7
+10877,Hannah Stanley,21,Female,Artist,"$87,859 ",No,Yes,Xbox,Fighting,Habit,7,33,7,10,88,83,60,1,42
+10878,Calvin Heath,23,Male,Doctor,"$156,701 ",Yes,Yes,Tablet,Horror,Social Interaction,5,677,4,83,19,60,49,69,11
+10879,Nathan Knox,29,Male,Nurse,"$198,876 ",Yes,Yes,Cell Phone,RPG,Loneliness,9,317,7,43,94,33,32,26,18
+10880,Oscar Jordan,20,Other,Teacher,"$149,969 ",No,Yes,Nintendo,MMORPG,Loneliness,7,899,10,8,51,16,91,54,8
+10881,Larry Warren,25,Other,Nurse,"$119,438 ",No,Yes,PC,Strategy,Stress Relief,7,868,10,55,40,33,16,10,42
+10882,Jeffrey Middleton,34,Male,Designer,"$41,424 ",No,Yes,Tablet,FPS,Entertainment,10,34,8,59,10,8,62,24,37
+10883,Joel Lara,28,Male,Other,"$93,483 ",No,No,PC,FPS,Competition,5,951,9,74,1,92,63,46,33
+10884,Rachel Thompson,23,Other,Designer,"$46,796 ",Yes,No,Cell Phone,Survival,Competition,7,401,4,27,51,45,7,74,44
+10885,Timothy Smith,32,Other,Other,"$5,550 ",Yes,Yes,Tablet,Fighting,Stress Relief,11,371,4,87,98,78,36,37,26
+10886,Melanie Martinez,27,Other,Manager,"$10,382 ",No,Yes,PC,Strategy,Habit,9,405,4,78,37,80,91,1,79
+10887,Eric Howard,20,Male,Designer,"$111,924 ",Yes,No,Tablet,Strategy,Loneliness,5,199,10,93,80,38,57,17,69
+10888,Emily Patterson,21,Female,Manager,"$133,206 ",Yes,Yes,Xbox,MMORPG,Social Interaction,7,239,6,70,85,1,11,46,54
+10889,Bryan Anderson,32,Male,Student,"$65,907 ",Yes,No,Nintendo,Survival,Escapism,9,648,9,73,76,77,56,83,31
+10890,Rick Jackson,31,Male,Lawyer,"$50,431 ",Yes,Yes,PlayStation,Racing,Boredom,6,111,6,37,33,13,88,68,3
+10891,Stephanie Phillips,29,Female,Manager,"$156,320 ",Yes,No,PC,FPS,Escapism,10,230,8,20,58,48,81,77,92
+10892,Ronnie Jordan,34,Other,Developer,"$67,102 ",No,Yes,Xbox,Sports,Social Interaction,7,207,9,30,16,31,23,64,21
+10893,James Howard,22,Male,Student,"$115,500 ",Yes,No,PC,Survival,Escapism,5,577,11,8,99,92,61,70,58
+10894,Karen Medina,26,Female,Other,"$93,914 ",No,Yes,Nintendo,Racing,Social Interaction,2,778,4,10,38,99,44,93,60
+10895,Eric Ford,27,Male,Lawyer,"$39,089 ",Yes,Yes,PlayStation,MOBA,Social Interaction,7,636,6,99,20,58,79,63,51
+10896,Ethan Thornton,21,Male,Doctor,"$129,518 ",Yes,No,Cell Phone,MMORPG,Relaxation,7,541,7,32,70,33,23,7,35
+10897,Adam Turner,29,Male,Student,"$88,547 ",No,Yes,Nintendo,MOBA,Challenge,9,313,9,58,95,21,28,90,58
+10898,Patricia Williams,23,Female,Writer,"$111,753 ",Yes,No,Tablet,Horror,Social Interaction,7,674,4,93,70,41,41,94,40
+10900,Steven Barrett,33,Other,Student,"$77,804 ",No,Yes,Tablet,Racing,Relaxation,8,985,6,11,9,24,12,82,73
+10901,Carl White,18,Other,Other,"$187,268 ",Yes,No,Cell Phone,MOBA,Habit,1,834,9,82,60,10,52,35,92
+10902,Anthony Jones,30,Male,Manager,"$142,277 ",No,Yes,Xbox,MMORPG,Entertainment,1,86,11,32,93,22,21,59,14
+10903,Craig Rogers,30,Male,Developer,"$171,116 ",Yes,No,Tablet,MMORPG,Competition,3,218,8,29,37,82,57,51,63
+10904,Cathy Schmidt,31,Female,Manager,"$126,277 ",Yes,Yes,Cell Phone,MOBA,Habit,4,961,4,33,62,10,99,51,20
+10905,Roger Richardson,24,Male,Lawyer,"$36,316 ",Yes,Yes,Nintendo,RPG,Loneliness,2,241,10,72,79,24,43,99,7
+10906,Jose Bell,33,Male,Manager,"$48,785 ",Yes,No,PC,RPG,Entertainment,2,190,9,46,96,7,21,58,92
+10907,William Pitts,34,Other,Doctor,"$194,843 ",Yes,Yes,PC,MOBA,Relaxation,1,776,9,56,85,35,41,2,7
+10908,Jeremy Pacheco,28,Male,Designer,"$44,782 ",Yes,Yes,PlayStation,FPS,Escapism,1,724,9,51,49,2,91,44,20
+10909,Darren Fields,23,Other,Student,"$78,744 ",No,Yes,Xbox,MOBA,Escapism,10,490,5,60,8,28,49,25,10
+10910,Crystal Brooks,20,Female,Developer,"$50,649 ",No,No,Nintendo,RPG,Social Interaction,11,407,9,34,89,85,9,85,21
+10911,Sarah Miller,21,Female,Engineer,"$85,495 ",No,Yes,Cell Phone,Racing,Entertainment,11,961,10,14,86,69,3,40,84
+10912,Rebecca Pena,28,Female,Teacher,"$196,411 ",Yes,No,Nintendo,Sports,Entertainment,9,303,7,59,82,52,92,52,22
+10913,William Smith,21,Male,Manager,"$87,851 ",Yes,Yes,Tablet,MMORPG,Challenge,3,82,7,72,12,74,6,18,49
+10914,Jennifer Edwards,34,Female,Teacher,"$49,482 ",No,Yes,Xbox,MMORPG,Boredom,8,226,8,32,93,60,55,37,64
+10915,Chelsea Davis,19,Female,Lawyer,"$137,769 ",Yes,No,PC,FPS,Entertainment,1,635,5,38,15,84,86,83,97
+10916,Christine Stewart,30,Male,Writer,"$144,477 ",No,No,Tablet,RPG,Stress Relief,10,839,11,84,55,40,35,54,14
+10917,Paul Henson,25,Male,Engineer,"$158,633 ",No,No,Nintendo,MOBA,Habit,3,273,8,69,11,60,61,28,14
+10918,Karen Chaney,18,Female,Student,"$127,463 ",Yes,No,PC,FPS,Challenge,9,111,11,76,77,55,22,65,94
+10919,Gary Parsons,34,Male,Other,"$44,720 ",Yes,No,PC,Racing,Competition,8,919,10,23,12,16,99,61,18
+10920,David Brooks,32,Other,Manager,"$44,219 ",Yes,No,Xbox,RPG,Loneliness,5,291,11,54,22,52,36,74,39
+10921,Cynthia Andrews,18,Female,Doctor,"$175,312 ",Yes,Yes,Tablet,Racing,Loneliness,3,215,9,72,6,39,1,16,33
+10922,William Oconnor,22,Other,Doctor,"$5,296 ",No,Yes,Xbox,Sports,Stress Relief,4,479,11,61,62,2,28,21,6
+10923,Randall Roman,26,Male,Manager,"$63,791 ",No,No,Tablet,Horror,Escapism,6,215,4,43,4,23,42,38,6
+10924,Leah Bean,23,Other,Writer,"$132,385 ",Yes,Yes,Xbox,FPS,Boredom,9,754,4,54,84,97,17,91,56
+10925,Karen Wells,24,Female,Teacher,"$48,343 ",Yes,Yes,PC,Strategy,Habit,7,103,7,66,84,52,74,52,26
+10926,Tyler Thompson,24,Male,Developer,"$23,506 ",No,Yes,PC,RPG,Escapism,9,259,10,12,4,87,48,36,7
+10927,Patrick Hall,32,Male,Writer,"$194,764 ",Yes,Yes,Nintendo,RPG,Habit,7,651,5,74,23,53,9,41,75
+10928,Valerie Burton,23,Female,Manager,"$121,735 ",Yes,No,Cell Phone,Racing,Social Interaction,11,59,9,50,92,17,46,83,34
+10929,Erica Edwards,24,Female,Designer,"$47,365 ",No,Yes,Xbox,Sports,Escapism,9,311,6,25,86,81,31,9,45
+10930,Lance Gonzales,26,Male,Lawyer,"$23,299 ",Yes,No,Cell Phone,Sports,Escapism,9,496,4,24,41,87,61,7,83
+10931,Kayla Figueroa,26,Female,Teacher,"$73,286 ",Yes,Yes,Nintendo,Horror,Stress Relief,4,610,7,85,88,3,73,41,88
+10932,Jonathan Long,34,Other,Teacher,"$141,608 ",No,No,Tablet,Survival,Challenge,5,125,7,80,60,23,73,91,49
+10933,Cindy Page,23,Female,Manager,"$63,382 ",No,Yes,Tablet,Horror,Entertainment,9,707,6,31,84,46,85,99,60
+10934,Nicholas Tran,25,Other,Other,"$52,508 ",Yes,Yes,PlayStation,Sports,Competition,7,881,8,46,32,49,99,72,48
+10935,Johnny Harris,28,Male,Student,"$42,260 ",Yes,Yes,PlayStation,Strategy,Challenge,2,472,6,50,23,47,88,63,97
+10936,Anthony Summers,32,Other,Other,"$80,701 ",Yes,No,Tablet,Survival,Stress Relief,11,788,6,97,83,12,45,7,70
+10937,Kimberly Dalton,33,Female,Doctor,"$105,357 ",Yes,Yes,Tablet,Racing,Escapism,7,229,10,89,59,77,99,30,33
+10938,Daniel Turner,24,Other,Artist,"$181,124 ",Yes,Yes,Tablet,RPG,Escapism,11,73,7,14,6,11,73,35,69
+10939,Kathy Vega,21,Other,Student,"$42,188 ",No,No,Tablet,FPS,Entertainment,9,349,11,93,52,2,23,48,94
+10941,Matthew Schneider,34,Male,Writer,"$186,218 ",No,Yes,PlayStation,Strategy,Social Interaction,5,400,4,81,8,7,15,76,71
+10942,Heather Leblanc,34,Other,Doctor,"$123,313 ",No,Yes,Cell Phone,FPS,Loneliness,10,328,7,34,63,8,39,20,53
+10943,Steven Goodman,27,Male,Student,"$34,894 ",No,No,PlayStation,MOBA,Stress Relief,7,177,7,74,64,83,70,90,18
+10944,Shannon Beasley,31,Female,Doctor,"$54,766 ",No,No,Tablet,Strategy,Stress Relief,5,140,9,98,57,33,19,27,23
+10945,Ann Day,25,Female,Lawyer,"$185,212 ",Yes,Yes,PlayStation,MOBA,Escapism,9,608,8,38,62,36,92,88,90
+10946,Jose Morgan,34,Other,Designer,"$63,153 ",Yes,No,PC,MOBA,Entertainment,10,748,6,54,93,62,21,31,8
+10947,Jason Smith,31,Male,Lawyer,"$175,609 ",No,Yes,PC,Racing,Competition,1,203,9,28,85,45,12,97,63
+10948,Steven Graham,31,Female,Writer,"$134,668 ",Yes,Yes,PC,Sports,Habit,6,604,6,76,3,54,75,48,19
+10949,Sherri Munoz,26,Other,Doctor,"$73,629 ",No,Yes,Cell Phone,Racing,Stress Relief,7,774,9,32,23,41,91,19,76
+10950,Phyllis Vaughan,20,Other,Doctor,"$165,882 ",No,No,PC,MOBA,Challenge,1,30,6,29,76,64,11,80,39
+10952,Tiffany Gomez,31,Female,Nurse,"$149,725 ",Yes,Yes,PlayStation,MOBA,Entertainment,6,507,8,8,37,98,18,5,38
+10953,Belinda Dillon,19,Other,Artist,"$42,094 ",No,No,Cell Phone,Sports,Loneliness,7,551,6,87,59,23,52,21,44
+10954,Antonio Levine,29,Other,Manager,"$99,940 ",No,Yes,Tablet,Horror,Escapism,5,691,4,44,33,17,63,26,99
+10955,Jessica Martinez,29,Female,Nurse,"$32,012 ",Yes,Yes,Tablet,RPG,Challenge,1,169,9,82,1,68,97,19,45
+10956,Austin Buck,20,Male,Teacher,"$151,064 ",Yes,Yes,Tablet,MOBA,Social Interaction,2,676,10,55,99,92,52,36,59
+10957,Michelle White,30,Female,Developer,"$81,223 ",No,Yes,PC,Racing,Social Interaction,4,696,9,17,22,4,27,31,61
+10958,Phillip Perez,27,Other,Other,"$37,231 ",No,Yes,Tablet,Fighting,Boredom,1,751,6,33,54,24,61,8,73
+10959,Michael Harris,30,Male,Other,"$155,441 ",No,No,PlayStation,Sports,Stress Relief,9,38,4,6,51,60,67,59,58
+10960,Sarah Griffin,30,Female,Designer,"$168,960 ",Yes,Yes,Xbox,Strategy,Loneliness,11,899,7,23,56,11,70,60,34
+10961,Michael Meyer,29,Other,Other,"$12,810 ",Yes,Yes,Cell Phone,Racing,Boredom,2,318,11,19,61,41,45,24,97
+10962,Juan Wells,23,Male,Designer,"$27,551 ",No,No,Cell Phone,RPG,Competition,2,301,9,85,70,85,9,42,62
+10963,James Ward,23,Other,Student,"$157,163 ",No,Yes,Nintendo,Strategy,Social Interaction,5,427,11,67,12,17,86,8,22
+10964,Katelyn Johnson,28,Female,Designer,"$2,033 ",Yes,No,PC,Strategy,Social Interaction,8,499,5,82,73,61,88,99,74
+10965,Todd Burns,34,Male,Engineer,"$107,929 ",No,Yes,Tablet,Racing,Habit,6,915,4,39,45,38,15,61,30
+10966,Andrew Ellis,30,Male,Nurse,"$64,485 ",No,Yes,Nintendo,Racing,Competition,2,741,6,3,95,92,69,33,79
+10967,Christine Parrish,31,Other,Nurse,"$19,714 ",No,Yes,Xbox,Racing,Habit,9,635,10,43,89,38,89,17,24
+10968,Jacqueline Oneill,26,Female,Student,"$55,254 ",Yes,Yes,PC,Survival,Challenge,4,531,10,47,54,29,30,29,60
+10969,Jason Galvan,29,Male,Developer,"$124,104 ",No,No,Xbox,MOBA,Relaxation,11,357,5,26,12,50,9,25,52
+10970,Nicholas Figueroa,18,Female,Student,"$68,886 ",No,Yes,Xbox,Fighting,Relaxation,2,805,11,16,51,16,56,82,79
+10971,Cameron White,33,Female,Engineer,"$10,449 ",No,Yes,PlayStation,MOBA,Entertainment,7,897,5,54,8,95,68,87,5
+10972,Anthony Hughes,19,Male,Doctor,"$68,076 ",No,Yes,Tablet,Strategy,Loneliness,1,240,9,72,4,46,57,77,7
+10973,Luis Hutchinson,31,Male,Artist,"$192,966 ",No,No,Nintendo,Strategy,Relaxation,6,210,11,88,64,21,4,67,34
+10974,Benjamin Jones,25,Other,Lawyer,"$164,956 ",No,No,Tablet,Racing,Competition,5,925,5,2,56,21,70,97,21
+10975,Jennifer Santos,23,Female,Manager,"$152,923 ",Yes,Yes,Nintendo,MMORPG,Escapism,3,816,10,80,44,70,80,18,86
+10976,Christina Chan,26,Female,Other,"$133,471 ",No,No,PlayStation,Racing,Entertainment,8,839,8,73,29,53,10,52,23
+10977,Amanda Blankenship,25,Female,Lawyer,"$184,705 ",No,Yes,PlayStation,Fighting,Habit,6,268,5,96,81,19,42,21,85
+10978,Jennifer Bell,30,Female,Artist,"$180,333 ",No,Yes,Cell Phone,MMORPG,Stress Relief,11,297,6,65,18,96,66,2,33
+10979,Timothy Rogers,25,Male,Doctor,"$134,285 ",Yes,No,Tablet,Survival,Habit,3,139,10,80,80,89,11,1,81
+10980,Christine Taylor,23,Female,Artist,"$196,453 ",Yes,Yes,Xbox,MMORPG,Relaxation,10,635,6,48,23,5,31,80,6
+10981,Mark Berry,19,Other,Student,"$1,168 ",Yes,Yes,PlayStation,MOBA,Boredom,2,644,6,61,74,42,99,34,97
+10982,Barbara Cross,30,Female,Teacher,"$24,523 ",No,Yes,PC,MMORPG,Relaxation,10,596,9,1,95,45,43,72,76
+10983,Jacqueline Hernandez,31,Female,Developer,"$138,011 ",No,No,Nintendo,Sports,Boredom,1,355,7,9,62,64,42,44,95
+10984,Heather Brown,25,Female,Lawyer,"$71,499 ",No,No,PC,Fighting,Habit,1,236,9,37,42,15,66,33,61
+10985,Cheryl Gray,31,Female,Manager,"$91,667 ",No,No,Tablet,Strategy,Entertainment,11,406,6,32,23,16,88,57,13
+10986,Charles Rodriguez,34,Other,Artist,"$76,295 ",Yes,Yes,Xbox,Sports,Competition,1,528,10,57,66,72,40,58,87
+10987,Jacob Dougherty,29,Male,Developer,"$69,732 ",No,Yes,Xbox,Strategy,Social Interaction,8,150,11,76,19,93,48,65,40
+10988,Stanley Brown,21,Male,Other,"$154,375 ",Yes,No,Nintendo,Fighting,Entertainment,1,284,6,70,48,74,14,84,63
+10989,Gabriella Costa,23,Female,Nurse,"$138,870 ",No,Yes,Nintendo,Fighting,Boredom,5,553,5,24,96,21,52,31,7
+10990,Tracey Odonnell,24,Female,Engineer,"$173,564 ",Yes,Yes,Xbox,MOBA,Competition,1,155,5,73,74,82,45,42,61
+10991,Tracy Juarez,22,Female,Nurse,"$135,427 ",No,Yes,Tablet,Fighting,Competition,8,717,11,46,28,67,33,31,85
+10992,Tyler Castro,23,Other,Manager,"$181,119 ",No,No,Xbox,Fighting,Boredom,4,704,10,93,32,81,32,52,66
+10993,Michael Grant,25,Other,Manager,"$68,996 ",Yes,Yes,Tablet,MMORPG,Escapism,2,917,9,39,47,42,72,69,61
+10994,Willie Sanchez,26,Male,Developer,"$49,746 ",No,No,Xbox,Strategy,Entertainment,5,923,9,18,75,98,17,23,3
+10995,Crystal Hill,29,Other,Manager,"$22,033 ",No,Yes,PC,Sports,Stress Relief,4,935,7,24,52,8,84,85,20
+10996,Susan Walls,33,Female,Writer,"$128,371 ",No,No,Cell Phone,Strategy,Social Interaction,8,35,5,44,82,89,7,74,91
+10997,Daniel Jackson,34,Male,Writer,"$109,443 ",Yes,No,Cell Phone,Fighting,Entertainment,9,323,4,76,16,77,48,70,14
+10998,Bridget Barrett,30,Male,Designer,"$160,156 ",Yes,No,PC,Strategy,Loneliness,3,911,4,65,85,24,77,57,8
+10999,Julie Cooke,30,Female,Teacher,"$17,505 ",No,Yes,PC,FPS,Boredom,3,503,8,48,83,59,49,83,41
+11000,Jose Hall,24,Male,Other,"$170,806 ",Yes,Yes,Tablet,Fighting,Boredom,10,931,5,31,40,66,69,43,16
